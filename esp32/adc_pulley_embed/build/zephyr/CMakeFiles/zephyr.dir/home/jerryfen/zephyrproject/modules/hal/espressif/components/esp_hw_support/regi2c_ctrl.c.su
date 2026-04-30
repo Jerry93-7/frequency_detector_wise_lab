@@ -1,0 +1,8 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/regi2c_ctrl.c:22:19:regi2c_ctrl_read_reg	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/regi2c_ctrl.c:30:19:regi2c_ctrl_read_reg_mask	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/regi2c_ctrl.c:38:16:regi2c_ctrl_write_reg	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/regi2c_ctrl.c:45:16:regi2c_ctrl_write_reg_mask	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/regi2c_ctrl.c:53:16:regi2c_enter_critical	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/regi2c_ctrl.c:60:16:regi2c_exit_critical	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/regi2c_ctrl.c:97:6:regi2c_saradc_enable	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/regi2c_ctrl.c:107:6:regi2c_saradc_disable	16	static

@@ -1,0 +1,8 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/riscv/interrupt.c:32:6:intr_handler_set	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/riscv/interrupt.c:42:16:intr_handler_get	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/riscv/interrupt.c:47:7:intr_handler_get_arg	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/riscv/interrupt.c:53:6:_global_interrupt_handler	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/riscv/interrupt.c:63:6:intr_matrix_route	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/riscv/interrupt.c:70:10:esprv_intc_get_interrupt_unmask	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/riscv/interrupt.c:77:16:esprv_intc_int_get_type	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/riscv/interrupt.c:83:5:esprv_intc_int_get_priority	0	static

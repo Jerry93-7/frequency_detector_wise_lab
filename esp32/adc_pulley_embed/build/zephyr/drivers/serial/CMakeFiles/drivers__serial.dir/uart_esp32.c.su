@@ -1,0 +1,6 @@
+/home/jerryfen/zephyrproject/zephyr/drivers/serial/uart_esp32.c:158:12:uart_esp32_err_check	0	static
+/home/jerryfen/zephyrproject/zephyr/drivers/serial/uart_esp32.c:191:12:uart_esp32_config_get	96	static
+/home/jerryfen/zephyrproject/zephyr/drivers/serial/uart_esp32.c:144:13:uart_esp32_poll_out	48	static
+/home/jerryfen/zephyrproject/zephyr/drivers/serial/uart_esp32.c:130:12:uart_esp32_poll_in	32	static
+/home/jerryfen/zephyrproject/zephyr/drivers/serial/uart_esp32.c:277:12:uart_esp32_configure	32	static
+/home/jerryfen/zephyrproject/zephyr/drivers/serial/uart_esp32.c:1014:12:uart_esp32_init	32	static

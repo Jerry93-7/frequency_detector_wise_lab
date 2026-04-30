@@ -1,0 +1,12 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/wpa_supplicant/include/utils/wpabuf.h:144:20:wpabuf_put_data	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:117:17:wpabuf_alloc	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:52:5:wpabuf_resize	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:138:17:wpabuf_alloc_ext_data	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:163:17:wpabuf_alloc_copy	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:172:17:wpabuf_dup	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:185:6:wpabuf_free	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:210:6:wpabuf_clear_free	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:219:8:wpabuf_put	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:239:17:wpabuf_concat	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:279:17:wpabuf_zeropad	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/wpabuf.c:301:6:wpabuf_printf	64	static

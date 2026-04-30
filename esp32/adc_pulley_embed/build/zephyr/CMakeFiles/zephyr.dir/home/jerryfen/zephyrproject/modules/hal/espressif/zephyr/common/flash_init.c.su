@@ -1,0 +1,3 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/common/flash_init.c:24:6:flash_is_octal_mode_enabled	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/common/flash_init.c:33:5:spi_flash_init_chip_state	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/common/flash_init.c:48:6:esp_flash_config	32	static

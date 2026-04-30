@@ -1,0 +1,5 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp_clk_tree_common.c:95:10:esp_clk_tree_xtal32k_get_freq_hz	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp_clk_tree_common.c:115:10:esp_clk_tree_osc_slow_get_freq_hz	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp_clk_tree_common.c:134:10:esp_clk_tree_lp_slow_get_freq_hz	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp_clk_tree_common.c:149:10:esp_clk_tree_rc_fast_get_freq_hz	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp_clk_tree_common.c:174:10:esp_clk_tree_lp_fast_get_freq_hz	16	static

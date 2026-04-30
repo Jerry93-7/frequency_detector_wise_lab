@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/zephyr/lib/utils/getopt/getopt.c:43:6:sys_getopt_init	16	static
+/home/jerryfen/zephyrproject/zephyr/lib/utils/getopt/getopt.c:73:5:sys_getopt	32	static

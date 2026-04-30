@@ -1,0 +1,8 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/port/wifi/wifi_init.c:134:18:wifi_deinit_internal	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/port/wifi/wifi_init.c:187:11:esp_wifi_deinit	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/port/wifi/wifi_init.c:247:11:esp_wifi_init	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/port/wifi/wifi_init.c:356:11:ieee80211_ftm_attach	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/port/wifi/wifi_init.c:441:11:nan_start	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/port/wifi/wifi_init.c:447:11:nan_stop	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/port/wifi/wifi_init.c:453:5:nan_input	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/port/wifi/wifi_init.c:459:6:nan_sm_handle_event	0	static

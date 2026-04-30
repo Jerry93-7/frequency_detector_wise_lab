@@ -1,0 +1,8 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/flash_mmap.c:56:11:spi_flash_mmap	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/flash_mmap.c:161:11:spi_flash_mmap_pages	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/flash_mmap.c:245:6:spi_flash_munmap	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/flash_mmap.c:262:6:spi_flash_mmap_dump	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/flash_mmap.c:268:10:spi_flash_mmap_get_free_pages	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/flash_mmap.c:305:16:spi_flash_check_and_flush_cache	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/flash_mmap.c:338:8:spi_flash_cache2phys	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/flash_mmap.c:368:14:spi_flash_phys2cache	32	static

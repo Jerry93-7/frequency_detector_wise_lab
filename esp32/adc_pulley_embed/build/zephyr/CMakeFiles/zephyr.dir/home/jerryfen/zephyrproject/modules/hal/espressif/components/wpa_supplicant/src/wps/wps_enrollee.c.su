@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/wpa_supplicant/include/utils/wpabuf.h:126:20:wpabuf_put_be16	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_enrollee.c:539:12:wps_process_enrollee_nonce	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_enrollee.c:463:17:wps_enrollee_get_msg	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps_enrollee.c:1649:22:wps_enrollee_process_msg	496	static

@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/rtc_clk_init.c:44:6:rtc_clk_modem_clock_domain_active_state_icg_map_preinit	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/rtc_clk_init.c:59:6:rtc_clk_init	80	static

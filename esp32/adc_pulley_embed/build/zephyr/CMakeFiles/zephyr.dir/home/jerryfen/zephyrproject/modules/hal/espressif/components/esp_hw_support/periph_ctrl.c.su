@@ -1,0 +1,14 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/hal/esp32c6/include/hal/clk_gate_ll.h:94:24:periph_ll_get_rst_en_mask	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:24:16:periph_rcc_enter	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:31:16:periph_rcc_exit	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:39:19:periph_rcc_acquire_enter	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:45:16:periph_rcc_acquire_exit	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:51:19:periph_rcc_release_enter	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:57:16:periph_rcc_release_exit	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:63:6:periph_module_enable	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:74:6:periph_module_disable	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:85:6:periph_module_reset	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:94:16:wifi_bt_common_module_enable	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:108:16:wifi_bt_common_module_disable	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:124:6:wifi_module_enable	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:135:6:wifi_module_disable	0	static

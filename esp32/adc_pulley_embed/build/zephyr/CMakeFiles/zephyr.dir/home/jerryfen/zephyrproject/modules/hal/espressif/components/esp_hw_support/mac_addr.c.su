@@ -1,0 +1,12 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/mac_addr.c:72:12:get_idx	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/mac_addr.c:211:18:get_efuse_mac_custom	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/mac_addr.c:268:18:get_efuse_factory_mac	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/mac_addr.c:83:18:get_mac_addr_from_mac_table	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/mac_addr.c:125:8:esp_mac_addr_len_get	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/mac_addr.c:135:11:esp_iface_mac_addr_set	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/mac_addr.c:163:11:esp_base_mac_addr_set	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/mac_addr.c:198:11:esp_efuse_mac_get_custom	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/mac_addr.c:255:11:esp_efuse_mac_get_default	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/mac_addr.c:302:11:esp_derive_local_mac	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/mac_addr.c:323:11:esp_read_mac	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/mac_addr.c:168:11:esp_base_mac_addr_get	0	static

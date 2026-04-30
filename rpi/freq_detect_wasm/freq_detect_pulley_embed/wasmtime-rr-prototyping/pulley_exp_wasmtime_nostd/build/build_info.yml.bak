@@ -1,0 +1,5 @@
+west:
+  command: /home/jerryfen/zephyrproject/.venv/bin/west build -b qemu_riscv32 -- -DCONFIG_RUST=y
+    .
+  topdir: /home/jerryfen/zephyrproject
+  version: 1.5.0

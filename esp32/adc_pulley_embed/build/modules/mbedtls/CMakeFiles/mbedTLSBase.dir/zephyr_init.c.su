@@ -1,0 +1,3 @@
+/home/jerryfen/zephyrproject/zephyr/modules/mbedtls/zephyr_init.c:47:12:_mbedtls_init	0	static
+/home/jerryfen/zephyrproject/zephyr/modules/mbedtls/zephyr_init.c:73:5:mbedtls_init	0	static
+/home/jerryfen/zephyrproject/zephyr/modules/mbedtls/zephyr_init.c:79:19:mbedtls_ms_time	0	static

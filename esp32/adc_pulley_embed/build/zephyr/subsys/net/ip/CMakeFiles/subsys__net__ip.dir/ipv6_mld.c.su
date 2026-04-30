@@ -1,0 +1,10 @@
+/home/jerryfen/zephyrproject/zephyr/include/zephyr/net/net_pkt.h:2479:19:net_pkt_write_be16	32	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/ipv6_mld.c:50:12:mld_create	48	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/ipv6_mld.c:125:12:mld_send	16	static
+/home/jerryfen/zephyrproject/zephyr/include/zephyr/net/net_if.h:890:20:net_if_flag_is_set	16	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/ipv6_mld.c:77:12:mld_create_packet	48	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/ipv6_mld.c:409:12:handle_mld_query	64	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/ipv6_mld.c:179:5:net_ipv6_mld_send_single	16	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/ipv6_mld.c:213:5:net_ipv6_mld_join	48	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/ipv6_mld.c:259:5:net_ipv6_mld_leave	32	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/ipv6_mld.c:469:6:net_ipv6_mld_init	0	static

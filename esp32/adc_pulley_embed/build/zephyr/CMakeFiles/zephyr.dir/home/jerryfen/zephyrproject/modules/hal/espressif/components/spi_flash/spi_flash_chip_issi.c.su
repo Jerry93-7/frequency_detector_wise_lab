@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_issi.c:22:11:spi_flash_chip_issi_probe	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_issi.c:61:18:spi_flash_chip_issi_get_caps	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_issi.c:39:11:spi_flash_chip_issi_set_io_mode	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_issi.c:49:11:spi_flash_chip_issi_get_io_mode	32	static

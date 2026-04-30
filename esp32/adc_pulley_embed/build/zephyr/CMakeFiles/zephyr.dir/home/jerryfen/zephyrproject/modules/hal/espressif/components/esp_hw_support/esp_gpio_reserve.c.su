@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/esp_gpio_reserve.c:15:6:esp_gpio_reserve_pins	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/esp_gpio_reserve.c:23:6:esp_gpio_is_pin_reserved	16	static

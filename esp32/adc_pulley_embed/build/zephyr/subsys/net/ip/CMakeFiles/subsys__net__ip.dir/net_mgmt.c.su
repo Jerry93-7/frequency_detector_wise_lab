@@ -1,0 +1,11 @@
+/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/build/zephyr/include/generated/zephyr/syscalls/kernel.h:1098:19:k_mutex_unlock.isra	0	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_mgmt.c:113:13:mgmt_event_work_handler	176	static
+/home/jerryfen/zephyrproject/zephyr/include/zephyr/sys/slist.h:448:1:sys_slist_find_and_remove.constprop.isra	0	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_mgmt.c:157:20:mgmt_rebuild_global_event_mask	0	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_mgmt.c:341:6:net_mgmt_add_event_callback	16	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_mgmt.c:357:6:net_mgmt_del_event_callback	16	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_mgmt.c:285:12:mgmt_event_wait_call	112	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_mgmt.c:370:6:net_mgmt_event_notify_with_info	48	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_mgmt.c:384:5:net_mgmt_event_wait	32	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_mgmt.c:396:5:net_mgmt_event_wait_on_iface	32	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_mgmt.c:411:6:net_mgmt_event_init	32	static

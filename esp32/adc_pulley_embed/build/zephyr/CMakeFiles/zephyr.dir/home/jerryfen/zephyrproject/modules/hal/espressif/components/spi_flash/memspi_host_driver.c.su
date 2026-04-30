@@ -1,0 +1,12 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/memspi_host_driver.c:111:11:memspi_host_read_status_hs	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/memspi_host_driver.c:136:6:memspi_host_erase_chip	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/memspi_host_driver.c:194:11:memspi_host_set_write_protect	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/memspi_host_driver.c:205:5:memspi_host_write_data_slicer	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/memspi_host_driver.c:229:5:memspi_host_read_data_slicer	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/memspi_host_driver.c:87:11:memspi_host_read_id_hs	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/memspi_host_driver.c:128:11:memspi_host_flush_cache	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/memspi_host_driver.c:144:6:memspi_host_erase_sector	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/memspi_host_driver.c:156:6:memspi_host_erase_block	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/memspi_host_driver.c:168:6:memspi_host_program_page	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/memspi_host_driver.c:63:11:memspi_host_init_pointers	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/memspi_host_driver.c:181:11:memspi_host_read	64	static

@@ -1,0 +1,5 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:746:12:tls_write_client_change_cipher_spec	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:779:12:tls_write_client_finished	96	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:45:6:tls_send_client_hello	80	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:945:6:tlsv1_client_handshake_write	208	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_write.c:971:6:tlsv1_client_send_alert	32	static

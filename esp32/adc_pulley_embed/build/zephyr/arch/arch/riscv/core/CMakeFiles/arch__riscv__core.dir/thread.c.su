@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/thread.c:21:6:arch_new_thread	16	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/thread.c:268:5:arch_coprocessors_disable	0	static

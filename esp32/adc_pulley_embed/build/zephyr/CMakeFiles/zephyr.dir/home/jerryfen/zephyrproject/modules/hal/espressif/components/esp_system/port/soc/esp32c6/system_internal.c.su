@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_system/port/soc/esp32c6/system_internal.c:31:16:esp_system_reset_modules_on_exit	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_system/port/soc/esp32c6/system_internal.c:83:16:esp_restart_noos	48	static

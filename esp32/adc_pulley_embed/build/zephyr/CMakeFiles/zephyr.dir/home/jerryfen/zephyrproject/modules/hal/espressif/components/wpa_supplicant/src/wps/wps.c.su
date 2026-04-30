@@ -1,0 +1,15 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:275:12:is_selected_pin_registrar	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:39:19:wps_init	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:160:6:wps_deinit	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:207:22:wps_process_msg	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:227:17:wps_get_msg	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:238:5:wps_is_selected_pbc_registrar	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:308:5:wps_is_selected_pin_registrar	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:336:5:wps_is_addr_authorized	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:398:5:wps_ap_priority_compar	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:445:12:wps_get_uuid_e	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:467:5:wps_is_20	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:493:17:wps_build_assoc_req_ie	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:527:17:wps_build_assoc_resp_ie	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:569:17:wps_build_probe_req_ie	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/wps/wps.c:624:5:wps_attr_text	64	static

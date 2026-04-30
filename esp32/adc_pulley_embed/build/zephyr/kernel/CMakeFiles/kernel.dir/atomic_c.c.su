@@ -1,0 +1,12 @@
+/home/jerryfen/zephyrproject/zephyr/kernel/atomic_c.c:81:6:z_impl_atomic_cas	0	static
+/home/jerryfen/zephyrproject/zephyr/kernel/atomic_c.c:118:6:z_impl_atomic_ptr_cas	0	static
+/home/jerryfen/zephyrproject/zephyr/kernel/atomic_c.c:161:14:z_impl_atomic_add	0	static
+/home/jerryfen/zephyrproject/zephyr/kernel/atomic_c.c:191:14:z_impl_atomic_sub	0	static
+/home/jerryfen/zephyrproject/zephyr/kernel/atomic_c.c:220:14:atomic_get	0	static
+/home/jerryfen/zephyrproject/zephyr/kernel/atomic_c.c:225:18:atomic_ptr_get	0	static
+/home/jerryfen/zephyrproject/zephyr/kernel/atomic_c.c:242:14:z_impl_atomic_set	0	static
+/home/jerryfen/zephyrproject/zephyr/kernel/atomic_c.c:259:18:z_impl_atomic_ptr_set	0	static
+/home/jerryfen/zephyrproject/zephyr/kernel/atomic_c.c:299:14:z_impl_atomic_or	0	static
+/home/jerryfen/zephyrproject/zephyr/kernel/atomic_c.c:329:14:z_impl_atomic_xor	0	static
+/home/jerryfen/zephyrproject/zephyr/kernel/atomic_c.c:359:14:z_impl_atomic_and	0	static
+/home/jerryfen/zephyrproject/zephyr/kernel/atomic_c.c:389:14:z_impl_atomic_nand	0	static

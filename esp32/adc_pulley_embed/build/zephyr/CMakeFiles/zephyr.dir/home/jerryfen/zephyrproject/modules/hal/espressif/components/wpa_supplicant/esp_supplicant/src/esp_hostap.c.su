@@ -1,0 +1,9 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:36:22:hostapd_get_hapd_data	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:41:7:hostap_init	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:207:6:hostapd_cleanup	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:249:6:hostap_deinit	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:276:5:esp_wifi_build_rsnxe	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:305:5:esp_send_assoc_resp	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:341:9:wpa_status_to_reason_code	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:363:6:hostap_new_assoc_sta	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_hostap.c:441:6:wpa_ap_remove	16	static

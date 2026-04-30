@@ -1,0 +1,7 @@
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmpv6.c:28:13:net_icmpv6_type2str	0	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmpv6.c:60:5:net_icmpv6_finalize	32	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmpv6.c:81:5:net_icmpv6_create	32	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmpv6.c:99:12:icmpv6_handle_echo_request	64	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmpv6.c:194:5:net_icmpv6_send_error	96	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmpv6.c:346:18:net_icmpv6_input	32	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmpv6.c:392:6:net_icmpv6_init	0	static

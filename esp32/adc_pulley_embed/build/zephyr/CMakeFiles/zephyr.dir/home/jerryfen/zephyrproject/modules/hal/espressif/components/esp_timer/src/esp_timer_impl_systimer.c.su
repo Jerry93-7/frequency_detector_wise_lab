@@ -1,0 +1,10 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_impl_systimer.c:76:23:timer_alarm_isr	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_impl_systimer.c:53:20:esp_timer_impl_get_counter_reg	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_impl_systimer.c:58:19:esp_timer_impl_get_time	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_impl_systimer.c:67:16:esp_timer_impl_set_alarm_id	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_impl_systimer.c:84:6:esp_timer_impl_set	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_impl_systimer.c:95:6:esp_timer_impl_advance	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_impl_systimer.c:102:11:esp_timer_impl_early_init	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_impl_systimer.c:130:11:esp_timer_impl_init	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_impl_systimer.c:159:6:esp_timer_impl_deinit	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_impl_systimer.c:167:10:esp_timer_impl_get_alarm_reg	32	static

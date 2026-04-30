@@ -1,0 +1,7 @@
+/home/jerryfen/zephyrproject/zephyr/kernel/pipe.c:37:12:wait_for	32	static
+/home/jerryfen/zephyrproject/zephyr/kernel/include/ksched.h:242:20:z_sched_wake_all.constprop	16	static
+/home/jerryfen/zephyrproject/zephyr/kernel/pipe.c:67:6:z_impl_k_pipe_init	0	static
+/home/jerryfen/zephyrproject/zephyr/kernel/pipe.c:147:5:z_impl_k_pipe_write	96	static
+/home/jerryfen/zephyrproject/zephyr/kernel/pipe.c:220:5:z_impl_k_pipe_read	80	static
+/home/jerryfen/zephyrproject/zephyr/kernel/pipe.c:273:6:z_impl_k_pipe_reset	16	static
+/home/jerryfen/zephyrproject/zephyr/kernel/pipe.c:287:6:z_impl_k_pipe_close	16	static

@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/systimer.c:14:10:systimer_ticks_to_us	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/systimer.c:19:10:systimer_us_to_ticks	0	static

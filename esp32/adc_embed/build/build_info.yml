@@ -1,0 +1,61 @@
+cmake:
+  application:
+    configuration-dir: '/home/jerryfen/zephyrproject/zephyr/apps/adc_test'
+    source-dir: '/home/jerryfen/zephyrproject/zephyr/apps/adc_test'
+  board:
+    name: 'esp32c6_devkitc'
+    path:
+     - '/home/jerryfen/zephyrproject/zephyr/boards/espressif/esp32c6_devkitc'
+    qualifiers: 'esp32c6/hpcore'
+    revision: ''
+  devicetree:
+    bindings-dirs:
+     - '/home/jerryfen/zephyrproject/zephyr/dts/bindings'
+    files:
+     - '/home/jerryfen/zephyrproject/zephyr/boards/espressif/esp32c6_devkitc/esp32c6_devkitc_hpcore.dts'
+     - 'boards/esp32c6_devkitc.overlay'
+    include-dirs:
+     - '/home/jerryfen/zephyrproject/modules/hal/ambiq/dts'
+     - '/home/jerryfen/zephyrproject/modules/hal/atmel/include'
+     - '/home/jerryfen/zephyrproject/modules/hal/bouffalolab/include'
+     - '/home/jerryfen/zephyrproject/modules/hal/bouffalolab/include/zephyr'
+     - '/home/jerryfen/zephyrproject/modules/hal/gigadevice/include'
+     - '/home/jerryfen/zephyrproject/modules/hal/microchip/include'
+     - '/home/jerryfen/zephyrproject/modules/hal/microchip/dts'
+     - '/home/jerryfen/zephyrproject/modules/hal/nuvoton/dts'
+     - '/home/jerryfen/zephyrproject/modules/hal/nxp/dts'
+     - '/home/jerryfen/zephyrproject/modules/hal/stm32/dts'
+     - '/home/jerryfen/zephyrproject/modules/hal/ti/dts'
+     - '/home/jerryfen/zephyrproject/zephyr/include'
+     - '/home/jerryfen/zephyrproject/zephyr/include/zephyr'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/common'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/vendor'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/rx'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/x86'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/xtensa'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/sparc'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/riscv'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/posix'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/arm64'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/arm'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/arc'
+     - '/home/jerryfen/zephyrproject/zephyr/dts'
+    user-files:
+     - 'boards/esp32c6_devkitc.overlay'
+  kconfig:
+    files:
+     - '/home/jerryfen/zephyrproject/zephyr/boards/espressif/esp32c6_devkitc/esp32c6_devkitc_hpcore_defconfig'
+     - '/home/jerryfen/zephyrproject/zephyr/apps/adc_test/prj.conf'
+    user-files:
+     - '/home/jerryfen/zephyrproject/zephyr/apps/adc_test/prj.conf'
+  toolchain:
+    name: 'zephyr'
+    path: '/home/jerryfen/zephyr-sdk-0.17.4'
+  zephyr:
+    version: '4.3.99'
+    zephyr-base: '/home/jerryfen/zephyrproject/zephyr'
+version: '0.1.0'
+west:
+  command: '/home/jerryfen/zephyrproject/.venv/bin/west build -b esp32c6_devkitc . -p always -- -DDTC_OVERLAY_FILE=boards/esp32c6_devkitc.overlay'
+  topdir: '/home/jerryfen/zephyrproject'
+  version: '1.5.0'

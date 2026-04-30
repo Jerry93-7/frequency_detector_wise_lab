@@ -1,0 +1,7 @@
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/pmp.c:330:13:write_pmp_entries.constprop	0	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/pmp.c:216:13:set_pmp_entry.constprop.isra	0	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/pmp.c:448:6:z_riscv_pmp_clear_all	0	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/pmp.c:593:6:z_riscv_pmp_init	112	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/pmp.c:782:6:z_riscv_pmp_kernelmode_prepare	48	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/pmp.c:814:6:z_riscv_pmp_kernelmode_enable	16	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/pmp.c:849:6:z_riscv_pmp_kernelmode_disable	112	static

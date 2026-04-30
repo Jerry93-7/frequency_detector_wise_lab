@@ -1,0 +1,11 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/adc_share_hw_ctrl.c:61:6:adc_calc_hw_calibration_code	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/adc_share_hw_ctrl.c:99:16:adc_set_hw_calibration_code	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/adc_share_hw_ctrl.c:106:6:adc_load_hw_calibration_chan_compens	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/adc_share_hw_ctrl.c:117:15:adc_get_hw_calibration_chan_compens	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/adc_share_hw_ctrl.c:134:11:adc_lock_acquire	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/adc_share_hw_ctrl.c:147:11:adc_lock_release	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/adc_share_hw_ctrl.c:162:11:adc_lock_try_acquire	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/adc_share_hw_ctrl.c:179:11:adc2_wifi_acquire	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/adc_share_hw_ctrl.c:190:11:adc2_wifi_release	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/adc_share_hw_ctrl.c:206:6:adc_apb_periph_claim	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/adc_share_hw_ctrl.c:220:6:adc_apb_periph_free	16	static

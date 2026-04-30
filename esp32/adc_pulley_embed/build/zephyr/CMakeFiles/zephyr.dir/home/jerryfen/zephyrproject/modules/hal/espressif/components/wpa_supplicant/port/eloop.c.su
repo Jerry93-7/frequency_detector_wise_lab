@@ -1,0 +1,13 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:52:13:eloop_run_timer	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:179:13:eloop_remove_timeout	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/wpa_supplicant/port/include/os.h:396:20:os_timer_disarm.constprop	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:63:5:eloop_init	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:86:5:eloop_register_timeout	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:198:5:eloop_cancel_timeout	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:224:5:eloop_cancel_timeout_one	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:251:5:eloop_is_timeout_registered	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:267:5:eloop_deplete_timeout	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:298:5:eloop_replenish_timeout	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:329:6:eloop_run	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:46:12:eloop_run_wrapper	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/port/eloop.c:381:6:eloop_destroy	32	static

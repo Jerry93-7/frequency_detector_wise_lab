@@ -1,0 +1,10 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/cache_hal.c:54:6:cache_hal_init	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/cache_hal.c:79:6:cache_hal_disable	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/cache_hal.c:99:6:cache_hal_enable	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/cache_hal.c:119:6:cache_hal_suspend	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/cache_hal.c:139:6:cache_hal_resume	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/cache_hal.c:159:6:cache_hal_is_cache_enabled	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/cache_hal.c:168:6:cache_hal_invalidate_addr	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/cache_hal.c:185:6:cache_hal_freeze	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/cache_hal.c:201:6:cache_hal_unfreeze	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/cache_hal.c:218:10:cache_hal_get_cache_line_size	0	static

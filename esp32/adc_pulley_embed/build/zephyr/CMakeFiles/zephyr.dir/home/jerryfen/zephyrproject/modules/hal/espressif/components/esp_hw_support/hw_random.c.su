@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/hw_random.c:37:20:esp_random	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/hw_random.c:81:6:esp_fill_random	48	static

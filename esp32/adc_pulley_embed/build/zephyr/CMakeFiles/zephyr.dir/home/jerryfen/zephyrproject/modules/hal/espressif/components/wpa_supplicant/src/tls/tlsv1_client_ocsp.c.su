@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/asn1.h:112:20:asn1_is_sequence	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_ocsp.c:50:12:ocsp_responder_id_match	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_ocsp.c:67:21:ocsp_hash_data	144	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_ocsp.c:648:22:tls_process_ocsp_response	1104	static

@@ -1,0 +1,7 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/port/host_flash/cache_utils.c:60:6:spi_flash_init_lock	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/port/host_flash/cache_utils.c:65:6:spi_flash_op_lock	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/port/host_flash/cache_utils.c:70:6:spi_flash_op_unlock	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/port/host_flash/cache_utils.c:77:16:spi_flash_disable_interrupts_caches_and_other_cpu	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/port/host_flash/cache_utils.c:97:16:spi_flash_enable_interrupts_caches_and_other_cpu	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/port/host_flash/cache_utils.c:117:16:spi_flash_enable_cache	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/port/host_flash/cache_utils.c:144:16:spi_flash_cache_enabled	0	static

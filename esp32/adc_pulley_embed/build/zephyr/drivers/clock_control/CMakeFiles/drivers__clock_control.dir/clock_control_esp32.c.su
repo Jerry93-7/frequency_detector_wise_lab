@@ -1,0 +1,9 @@
+/home/jerryfen/zephyrproject/zephyr/drivers/clock_control/clock_control_esp32.c:588:12:esp32_select_rtc_slow_clk	32	static
+/home/jerryfen/zephyrproject/zephyr/drivers/clock_control/clock_control_esp32.c:673:12:esp32_cpu_clock_configure	96	static
+/home/jerryfen/zephyrproject/zephyr/drivers/clock_control/clock_control_esp32.c:563:12:clock_control_esp32_get_rate	16	static
+/home/jerryfen/zephyrproject/zephyr/drivers/clock_control/clock_control_esp32.c:785:12:clock_control_esp32_configure	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/hal/esp32c6/include/hal/clk_gate_ll.h:337:20:periph_ll_disable_clk_set_rst	0	static
+/home/jerryfen/zephyrproject/zephyr/drivers/clock_control/clock_control_esp32.c:815:12:clock_control_esp32_init	16	static
+/home/jerryfen/zephyrproject/zephyr/drivers/clock_control/clock_control_esp32.c:526:34:clock_control_esp32_get_status	0	static
+/home/jerryfen/zephyrproject/zephyr/drivers/clock_control/clock_control_esp32.c:552:12:clock_control_esp32_off	16	static
+/home/jerryfen/zephyrproject/zephyr/drivers/clock_control/clock_control_esp32.c:539:12:clock_control_esp32_on	16	static

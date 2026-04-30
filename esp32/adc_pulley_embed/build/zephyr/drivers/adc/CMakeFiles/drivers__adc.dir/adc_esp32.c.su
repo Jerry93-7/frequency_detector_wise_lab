@@ -1,0 +1,3 @@
+/home/jerryfen/zephyrproject/zephyr/drivers/adc/adc_esp32.c:104:12:adc_esp32_read	48	static
+/home/jerryfen/zephyrproject/zephyr/drivers/adc/adc_esp32.c:224:12:adc_esp32_channel_setup	64	static
+/home/jerryfen/zephyrproject/zephyr/drivers/adc/adc_esp32.c:344:12:adc_esp32_init	64	static

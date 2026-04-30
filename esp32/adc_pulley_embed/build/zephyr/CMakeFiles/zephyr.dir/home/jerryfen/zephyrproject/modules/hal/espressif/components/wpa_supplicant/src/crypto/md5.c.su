@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/md5.c:26:5:hmac_md5_vector	176	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/md5.c:105:5:hmac_md5	32	static

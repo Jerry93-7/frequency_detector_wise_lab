@@ -1,0 +1,3 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_adc/adc_cali_curve_fitting.c:127:18:cali_raw_to_voltage	80	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_adc/adc_cali_curve_fitting.c:69:11:adc_cali_create_scheme_curve_fitting	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_adc/adc_cali_curve_fitting.c:113:11:adc_cali_delete_scheme_curve_fitting	16	static

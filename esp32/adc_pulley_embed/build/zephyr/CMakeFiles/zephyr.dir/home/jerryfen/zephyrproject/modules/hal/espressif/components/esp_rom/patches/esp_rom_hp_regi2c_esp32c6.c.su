@@ -1,0 +1,5 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_rom/patches/esp_rom_hp_regi2c_esp32c6.c:85:26:regi2c_enable_block	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_rom/patches/esp_rom_hp_regi2c_esp32c6.c:119:19:regi2c_read_impl	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_rom/patches/esp_rom_hp_regi2c_esp32c6.c:134:19:regi2c_read_mask_impl	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_rom/patches/esp_rom_hp_regi2c_esp32c6.c:151:16:regi2c_write_impl	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_rom/patches/esp_rom_hp_regi2c_esp32c6.c:166:16:regi2c_write_mask_impl	32	static

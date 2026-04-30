@@ -1,0 +1,6 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/efuse_hal.c:16:6:efuse_hal_get_mac	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/efuse_hal.c:22:20:efuse_hal_chip_revision	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/efuse_hal.c:27:20:efuse_hal_blk_version	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/efuse_hal.c:32:16:efuse_hal_get_disable_wafer_version_major	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/efuse_hal.c:37:16:efuse_hal_get_disable_blk_version_major	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/efuse_hal.c:42:16:efuse_hal_flash_encryption_enabled	0	static

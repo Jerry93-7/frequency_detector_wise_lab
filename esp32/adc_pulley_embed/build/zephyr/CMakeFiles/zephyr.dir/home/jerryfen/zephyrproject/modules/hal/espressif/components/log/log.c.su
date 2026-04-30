@@ -1,0 +1,8 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/log/log.c:276:13:fix_cache_generation_overflow	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/log/log.c:304:13:heap_bubble_down	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/log/log.c:146:24:s_log_level_get_and_unlock	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/log/log.c:82:16:esp_log_set_vprintf	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/log/log.c:91:6:esp_log_level_set	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/log/log.c:164:17:esp_log_level_get	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/log/log.c:184:6:esp_log_writev	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/log/log.c:201:6:esp_log_write	64	static

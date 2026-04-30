@@ -1,0 +1,5 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/flash_ops.c:89:16:spi_flash_guard_set	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/flash_ops.c:94:42:spi_flash_guard_get	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/flash_ops.c:168:16:spi_flash_set_rom_required_regs	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/flash_ops.c:214:9:esp_mspi_get_io	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/flash_ops.c:136:16:esp_mspi_pin_init	32	static

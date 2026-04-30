@@ -1,0 +1,5 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/uart_hal_iram.c:18:6:uart_hal_txfifo_rst	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/uart_hal_iram.c:23:6:uart_hal_rxfifo_rst	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/uart_hal_iram.c:28:6:uart_hal_tx_break	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/uart_hal_iram.c:33:6:uart_hal_write_txfifo	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/uart_hal_iram.c:43:6:uart_hal_read_rxfifo	16	static

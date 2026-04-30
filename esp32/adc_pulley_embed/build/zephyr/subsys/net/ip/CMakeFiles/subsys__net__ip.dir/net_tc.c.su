@@ -1,0 +1,9 @@
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_tc.c:256:13:tc_rx_handler	16	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_tc.c:63:18:net_tc_try_submit_to_tx_queue	0	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_tc.c:84:18:net_tc_submit_to_rx_queue	16	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_tc.c:115:5:net_tx_priority2tc	0	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_tc.c:133:5:net_rx_priority2tc	0	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_tc.c:175:5:net_tc_tx_thread_priority	0	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_tc.c:190:5:net_tc_rx_thread_priority	0	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_tc.c:314:6:net_tc_tx_init	0	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_tc.c:371:6:net_tc_rx_init	32	static

@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_system/port/soc/esp32c6/reset_reason.c:80:20:esp_reset_reason	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_system/port/soc/esp32c6/reset_reason.c:102:16:esp_reset_reason_set_hint	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_system/port/soc/esp32c6/reset_reason.c:110:20:esp_reset_reason_get_hint	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_system/port/soc/esp32c6/reset_reason.c:71:6:esp_reset_reason_init	16	static

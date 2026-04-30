@@ -1,0 +1,5 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_noos.c:45:28:delay_us	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_noos.c:31:28:end	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_noos.c:17:28:start	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_noos.c:53:17:get_temp_buffer_not_supported	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_noos.c:69:21:esp_flash_app_disable_os_functions	0	static

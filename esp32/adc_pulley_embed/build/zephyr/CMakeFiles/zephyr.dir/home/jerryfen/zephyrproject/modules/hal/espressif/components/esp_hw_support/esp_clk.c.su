@@ -1,0 +1,10 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/esp_clk.c:62:17:calc_checksum	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/esp_clk.c:84:15:esp_clk_cpu_freq	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/esp_clk.c:89:15:esp_clk_apb_freq	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/esp_clk.c:99:15:esp_clk_xtal_freq	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/esp_clk.c:104:10:esp_rtc_get_time_us	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/esp_clk.c:158:6:esp_clk_slowclk_cal_set	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/esp_clk.c:196:10:esp_clk_slowclk_cal_get	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/esp_clk.c:201:10:esp_clk_rtc_time	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/esp_clk.c:210:6:esp_clk_private_lock	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/esp_clk.c:214:6:esp_clk_private_unlock	0	static

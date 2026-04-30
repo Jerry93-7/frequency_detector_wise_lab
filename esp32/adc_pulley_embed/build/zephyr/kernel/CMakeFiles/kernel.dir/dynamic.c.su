@@ -1,0 +1,3 @@
+/home/jerryfen/zephyrproject/zephyr/kernel/dynamic.c:105:13:dyn_cb	0	static
+/home/jerryfen/zephyrproject/zephyr/kernel/dynamic.c:75:19:z_impl_k_thread_stack_alloc	0	static
+/home/jerryfen/zephyrproject/zephyr/kernel/dynamic.c:116:5:z_impl_k_thread_stack_free	32	static

@@ -1,0 +1,11 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_app.c:180:28:main_flash_region_protected	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_app.c:155:24:get_buffer_malloc	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_app.c:120:28:spi_flash_os_check_yield	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_app.c:175:23:release_buffer_malloc	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_app.c:149:28:delay_us	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_app.c:100:28:spi1_end	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_app.c:75:28:spi1_start	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_app.c:136:28:spi_flash_os_yield	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_app.c:223:11:esp_flash_init_os_functions	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_app.c:251:11:esp_flash_deinit_os_functions	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_os_func_app.c:263:11:esp_flash_app_enable_os_functions	0	static

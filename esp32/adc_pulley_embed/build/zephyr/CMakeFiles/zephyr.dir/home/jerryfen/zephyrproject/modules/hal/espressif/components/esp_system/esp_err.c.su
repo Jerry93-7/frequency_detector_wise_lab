@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_system/esp_err.c:42:6:_esp_error_check_failed_without_abort	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_system/esp_err.c:47:6:_esp_error_check_failed	32	static

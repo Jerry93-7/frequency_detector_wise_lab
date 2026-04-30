@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/lp_timer_hal.c:19:16:lp_timer_hal_set_alarm_target	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/lp_timer_hal.c:26:20:lp_timer_hal_get_cycle_count	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/lp_timer_hal.c:41:16:lp_timer_hal_clear_alarm_intr_status	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/lp_timer_hal.c:46:16:lp_timer_hal_clear_overflow_intr_status	0	static

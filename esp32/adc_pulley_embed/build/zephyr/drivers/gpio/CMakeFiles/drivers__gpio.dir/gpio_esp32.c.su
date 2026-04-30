@@ -1,0 +1,11 @@
+/home/jerryfen/zephyrproject/zephyr/drivers/gpio/gpio_esp32.c:275:12:gpio_esp32_port_get_raw	0	static
+/home/jerryfen/zephyrproject/zephyr/drivers/gpio/gpio_esp32.c:290:12:gpio_esp32_port_set_masked_raw	0	static
+/home/jerryfen/zephyrproject/zephyr/drivers/gpio/gpio_esp32.c:310:12:gpio_esp32_port_set_bits_raw	0	static
+/home/jerryfen/zephyrproject/zephyr/drivers/gpio/gpio_esp32.c:326:12:gpio_esp32_port_clear_bits_raw	0	static
+/home/jerryfen/zephyrproject/zephyr/drivers/gpio/gpio_esp32.c:342:12:gpio_esp32_port_toggle_bits	0	static
+/home/jerryfen/zephyrproject/zephyr/drivers/gpio/gpio_esp32.c:394:12:gpio_esp32_pin_interrupt_configure	0	static
+/home/jerryfen/zephyrproject/zephyr/drivers/gpio/gpio_esp32.c:422:12:gpio_esp32_manage_callback	0	static
+/home/jerryfen/zephyrproject/zephyr/drivers/gpio/gpio_esp32.c:431:17:gpio_esp32_get_pending_int	0	static
+/home/jerryfen/zephyrproject/zephyr/drivers/gpio/gpio_esp32.c:468:12:gpio_esp32_init	16	static
+/home/jerryfen/zephyrproject/zephyr/drivers/gpio/gpio_esp32.c:525:23:gpio_esp32_isr	16	static
+/home/jerryfen/zephyrproject/zephyr/drivers/gpio/gpio_esp32.c:96:22:gpio_esp32_config	48	static

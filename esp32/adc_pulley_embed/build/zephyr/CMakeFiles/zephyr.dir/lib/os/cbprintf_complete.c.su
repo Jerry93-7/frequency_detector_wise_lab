@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/zephyr/lib/os/cbprintf_complete.c:318:15:extract_decimal	0	static
+/home/jerryfen/zephyrproject/zephyr/lib/os/cbprintf_complete.c:791:14:encode_uint	48	static
+/home/jerryfen/zephyrproject/zephyr/lib/os/cbprintf_complete.c:1349:12:outs	32	static
+/home/jerryfen/zephyrproject/zephyr/lib/os/cbprintf_complete.c:1370:5:z_cbvprintf_impl	144	static

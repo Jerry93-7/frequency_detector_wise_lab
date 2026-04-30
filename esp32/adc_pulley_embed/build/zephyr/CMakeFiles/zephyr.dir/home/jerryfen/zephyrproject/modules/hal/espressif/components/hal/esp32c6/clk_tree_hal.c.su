@@ -1,0 +1,6 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/clk_tree_hal.c:52:10:clk_hal_lp_slow_get_freq_hz	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/clk_tree_hal.c:70:10:clk_hal_xtal_get_freq_mhz	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/clk_tree_hal.c:17:10:clk_hal_soc_root_get_freq_mhz	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/clk_tree_hal.c:33:10:clk_hal_cpu_get_freq_hz	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/clk_tree_hal.c:40:10:clk_hal_ahb_get_freq_hz	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/clk_tree_hal.c:47:10:clk_hal_apb_get_freq_hz	32	static

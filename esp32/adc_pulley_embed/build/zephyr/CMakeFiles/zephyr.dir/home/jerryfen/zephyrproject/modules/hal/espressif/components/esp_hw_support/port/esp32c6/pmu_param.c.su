@@ -1,0 +1,9 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_param.c:91:37:pmu_hp_system_power_param_default	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_param.c:147:37:pmu_hp_system_clock_param_default	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_param.c:191:39:pmu_hp_system_digital_param_default	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_param.c:266:38:pmu_hp_system_analog_param_default	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_param.c:357:41:pmu_hp_system_retention_param_default	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_param.c:399:37:pmu_lp_system_power_param_default	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_param.c:439:38:pmu_lp_system_analog_param_default	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_param.c:449:10:get_act_hp_dbias	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_param.c:473:10:get_act_lp_dbias	16	static

@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/spi_flash_hal.c:24:17:get_flash_clock_divider	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/spi_flash_hal.c:94:11:spi_flash_hal_init	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/spi_flash_hal.c:138:6:spi_flash_hal_supports_direct_write	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/spi_flash_hal.c:146:6:spi_flash_hal_supports_direct_read	0	static

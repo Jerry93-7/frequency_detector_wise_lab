@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/zephyr/soc/espressif/esp32c6/soc.c:21:16:__esp_platform_app_start	16	static
+/home/jerryfen/zephyrproject/zephyr/soc/espressif/esp32c6/soc.c:37:16:__esp_platform_mcuboot_start	16	static
+/home/jerryfen/zephyrproject/zephyr/soc/espressif/esp32c6/soc.c:46:15:arch_printk_char_out	16	static
+/home/jerryfen/zephyrproject/zephyr/soc/espressif/esp32c6/soc.c:55:6:sys_arch_reboot	16	static

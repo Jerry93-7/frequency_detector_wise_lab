@@ -1,0 +1,5 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/asn1.h:112:20:asn1_is_sequence	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/pkcs5.c:38:12:oid_is_rsadsi	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/pkcs5.c:48:12:pkcs5_is_oid	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/pkcs5.c:400:12:pkcs12_key_gen	128	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/pkcs5.c:566:6:pkcs5_decrypt	496	static

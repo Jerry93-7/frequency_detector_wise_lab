@@ -1,0 +1,8 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/src/soc_init.c:25:6:soc_hw_init	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/src/soc_init.c:41:6:ana_super_wdt_reset_config	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/src/soc_init.c:48:6:ana_bod_reset_config	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/src/soc_init.c:61:6:ana_reset_config	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/src/soc_init.c:67:6:super_wdt_auto_feed	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/src/soc_init.c:75:6:wdt_reset_cpu0_info_enable	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/src/soc_init.c:83:6:check_wdt_reset	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/src/soc_init.c:100:6:ana_clock_glitch_reset_config	0	static

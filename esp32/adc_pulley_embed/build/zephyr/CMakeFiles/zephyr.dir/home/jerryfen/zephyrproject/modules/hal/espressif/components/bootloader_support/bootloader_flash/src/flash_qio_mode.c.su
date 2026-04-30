@@ -1,0 +1,11 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/bootloader_flash/src/flash_qio_mode.c:167:20:bootloader_read_status_8b_rdsr	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/bootloader_flash/src/flash_qio_mode.c:172:20:bootloader_read_status_8b_rdsr2	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/bootloader_flash/src/flash_qio_mode.c:182:20:bootloader_read_status_16b_rdsr_rdsr2	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/bootloader_flash/src/flash_qio_mode.c:187:16:bootloader_write_status_8b_wrsr	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/bootloader_flash/src/flash_qio_mode.c:192:16:bootloader_write_status_8b_wrsr2	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/bootloader_flash/src/flash_qio_mode.c:202:16:bootloader_write_status_16b_wrsr	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/bootloader_flash/src/flash_qio_mode.c:207:20:bootloader_read_status_8b_xmc25qu64a	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/bootloader_flash/src/flash_qio_mode.c:216:16:bootloader_write_status_8b_xmc25qu64a	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/bootloader_flash/src/flash_qio_mode.c:68:6:bootloader_enable_qio_mode	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/bootloader_flash/src/flash_qio_mode.c:177:20:bootloader_read_status_8b_rdsr3	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/bootloader_flash/src/flash_qio_mode.c:197:16:bootloader_write_status_8b_wrsr3	0	static

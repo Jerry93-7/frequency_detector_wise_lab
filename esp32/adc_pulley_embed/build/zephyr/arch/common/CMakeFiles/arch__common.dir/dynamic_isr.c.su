@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/zephyr/arch/common/dynamic_isr.c:12:13:z_isr_install	16	static
+/home/jerryfen/zephyrproject/zephyr/arch/common/dynamic_isr.c:38:12:arch_irq_connect_dynamic	16	static

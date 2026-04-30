@@ -1,0 +1,5 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/hal/esp32c6/include/hal/rtc_io_ll.h:115:20:rtcio_ll_output_enable	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/hal/esp32c6/include/hal/rtc_io_ll.h:125:20:rtcio_ll_output_disable	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/rtc_io_hal.c:14:6:rtcio_hal_set_direction	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/rtc_io_hal.c:52:6:rtcio_hal_set_direction_in_sleep	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/rtc_io_hal.c:81:6:rtcio_hal_isolate	16	static

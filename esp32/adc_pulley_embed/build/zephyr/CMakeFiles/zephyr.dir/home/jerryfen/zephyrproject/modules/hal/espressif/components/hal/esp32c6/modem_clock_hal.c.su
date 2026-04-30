@@ -1,0 +1,13 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/modem_clock_hal.c:22:16:modem_clock_hal_set_clock_domain_icg_bitmap	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/modem_clock_hal.c:62:20:modem_clock_hal_get_clock_domain_icg_bitmap	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/modem_clock_hal.c:104:16:modem_clock_hal_enable_modem_adc_common_fe_clock	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/modem_clock_hal.c:112:16:modem_clock_hal_enable_modem_private_fe_clock	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/modem_clock_hal.c:120:6:modem_clock_hal_set_ble_rtc_timer_divisor_value	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/modem_clock_hal.c:125:6:modem_clock_hal_enable_ble_rtc_timer_clock	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/modem_clock_hal.c:130:6:modem_clock_hal_deselect_all_ble_rtc_timer_lpclk_source	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/modem_clock_hal.c:138:6:modem_clock_hal_select_ble_rtc_timer_lpclk_source	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/modem_clock_hal.c:170:6:modem_clock_hal_deselect_all_coex_lpclk_source	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/modem_clock_hal.c:178:6:modem_clock_hal_select_coex_lpclk_source	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/modem_clock_hal.c:210:6:modem_clock_hal_deselect_all_wifi_lpclk_source	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/modem_clock_hal.c:218:6:modem_clock_hal_select_wifi_lpclk_source	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/esp32c6/modem_clock_hal.c:250:6:modem_clock_hal_enable_wifipwr_clock	16	static

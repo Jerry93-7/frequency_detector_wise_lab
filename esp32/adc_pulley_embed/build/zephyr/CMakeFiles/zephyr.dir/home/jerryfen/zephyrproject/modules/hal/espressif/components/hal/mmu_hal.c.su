@@ -1,0 +1,10 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/hal/esp32c6/include/hal/mmu_ll.h:119:20:mmu_ll_check_valid_paddr_region.constprop.isra	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/mmu_hal.c:27:6:mmu_hal_unmap_all	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/mmu_hal.c:18:6:mmu_hal_init	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/mmu_hal.c:35:10:mmu_hal_pages_to_bytes	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/mmu_hal.c:55:10:mmu_hal_bytes_to_pages	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/mmu_hal.c:75:6:mmu_hal_map_region	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/mmu_hal.c:99:6:mmu_hal_unmap_region	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/mmu_hal.c:115:6:mmu_hal_vaddr_to_paddr	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/mmu_hal.c:133:6:mmu_hal_paddr_to_vaddr	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/mmu_hal.c:154:6:mmu_hal_check_valid_ext_vaddr_region	0	static

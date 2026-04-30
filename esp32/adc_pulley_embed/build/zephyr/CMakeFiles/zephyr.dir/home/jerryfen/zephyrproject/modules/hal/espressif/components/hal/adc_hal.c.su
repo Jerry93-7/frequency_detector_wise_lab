@@ -1,0 +1,9 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_hal.c:95:6:adc_hal_dma_ctx_config	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_hal.c:105:6:adc_hal_digi_init	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_hal.c:131:6:adc_hal_digi_deinit	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_hal.c:192:6:adc_hal_digi_controller_config	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_hal.c:267:6:adc_hal_digi_start	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_hal.c:305:27:adc_hal_get_reading_result	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_hal.c:348:6:adc_hal_digi_clr_intr	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_hal.c:355:6:adc_hal_digi_dis_intr	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_hal.c:362:6:adc_hal_digi_stop	0	static

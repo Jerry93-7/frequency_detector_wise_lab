@@ -1,0 +1,14 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_sleep.c:31:10:get_lslp_dbg	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_sleep.c:44:10:get_lslp_hp_dbias	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_sleep.c:57:10:get_dslp_dbg	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_sleep.c:70:10:get_dslp_lp_dbias	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_sleep.c:83:6:pmu_sleep_enable_regdma_backup	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_sleep.c:97:6:pmu_sleep_disable_regdma_backup	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_sleep.c:108:10:pmu_sleep_calculate_hw_wait_time	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_sleep.c:196:27:pmu_sleep_config_default	208	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_sleep.c:304:6:pmu_sleep_pll_already_enabled	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_sleep.c:309:6:pmu_sleep_init	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_sleep.c:345:6:pmu_sleep_finish	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_sleep.c:320:10:pmu_sleep_start	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_sleep.c:353:6:pmu_sleep_enable_hp_sleep_sysclk	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_sleep.c:358:10:pmu_sleep_get_wakup_retention_cost	16	static

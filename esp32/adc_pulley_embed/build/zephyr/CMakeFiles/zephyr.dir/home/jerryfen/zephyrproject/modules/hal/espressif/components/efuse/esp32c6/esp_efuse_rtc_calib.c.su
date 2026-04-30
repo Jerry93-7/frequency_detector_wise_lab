@@ -1,0 +1,5 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/esp32c6/esp_efuse_rtc_calib.c:20:5:esp_efuse_rtc_calib_get_ver	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/esp32c6/esp_efuse_rtc_calib.c:35:10:esp_efuse_rtc_calib_get_init_code	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/esp32c6/esp_efuse_rtc_calib.c:60:5:esp_efuse_rtc_calib_get_chan_compens	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/esp32c6/esp_efuse_rtc_calib.c:98:11:esp_efuse_rtc_calib_get_cal_voltage	96	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/esp32c6/esp_efuse_rtc_calib.c:133:11:esp_efuse_rtc_calib_get_tsens_val	32	static

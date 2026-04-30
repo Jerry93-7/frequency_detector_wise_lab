@@ -1,0 +1,23 @@
+package local:demo;
+
+
+world host {
+    import zephyr: interface {
+        host-adc-init: func() -> s32;
+        host-adc-read: func() -> s32;
+        host-adc-raw-to-millivolts: func(avgmv: s32) -> s32;
+        host-printk: func(msg: string);
+        host-sin: func(x: f64) -> f64;
+        host-cos: func(x: f64) -> f64;
+    }
+
+    import host-adc-init: func() -> s32;
+    import host-adc-read: func() -> s32;
+    import host-adc-raw-to-millivolts: func(avgmv: s32) -> s32;
+    import host-printk: func(msg: string);
+    import host-sin: func(x: f64) -> f64;
+    import host-cos: func(x: f64) -> f64;
+
+    export run: func() -> s32;
+
+}

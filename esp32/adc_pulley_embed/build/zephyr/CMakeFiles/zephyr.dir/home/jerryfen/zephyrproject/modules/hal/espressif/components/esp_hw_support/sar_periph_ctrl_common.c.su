@@ -1,0 +1,5 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/sar_periph_ctrl_common.c:68:12:temperature_sensor_get_raw_value	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/sar_periph_ctrl_common.c:34:6:temperature_sensor_power_acquire	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/sar_periph_ctrl_common.c:49:6:temperature_sensor_power_release	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/sar_periph_ctrl_common.c:74:6:temp_sensor_sync_tsens_idx	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/sar_periph_ctrl_common.c:79:9:temp_sensor_get_raw_value	16	static

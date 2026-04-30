@@ -1,0 +1,11 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/wpa_supplicant/src/utils/common.h:162:19:WPA_GET_BE32	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/wpa_supplicant/src/utils/common.h:167:20:WPA_PUT_BE32	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:318:13:desfunc	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:273:13:deskey	400	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:399:5:des_encrypt	160	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:428:6:des_key_setup	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:435:6:des_block_encrypt	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:446:6:des_block_decrypt	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:457:6:des3_key_setup	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:469:6:des3_encrypt	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/des-internal.c:483:6:des3_decrypt	32	static

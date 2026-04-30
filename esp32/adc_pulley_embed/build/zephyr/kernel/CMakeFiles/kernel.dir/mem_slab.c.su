@@ -1,0 +1,6 @@
+/home/jerryfen/zephyrproject/zephyr/kernel/mem_slab.c:104:12:create_free_list	0	static
+/home/jerryfen/zephyrproject/zephyr/kernel/mem_slab.c:133:12:init_mem_slab_obj_core_list	16	static
+/home/jerryfen/zephyrproject/zephyr/kernel/mem_slab.c:172:5:k_mem_slab_init	16	static
+/home/jerryfen/zephyrproject/zephyr/kernel/mem_slab.c:222:5:k_mem_slab_alloc	16	static
+/home/jerryfen/zephyrproject/zephyr/kernel/mem_slab.c:271:6:k_mem_slab_free	32	static
+/home/jerryfen/zephyrproject/zephyr/kernel/mem_slab.c:303:5:k_mem_slab_runtime_stats_get	0	static

@@ -1,0 +1,11 @@
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmp.c:510:12:icmp_call_handlers	32	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmp.c:419:12:net_icmp_send_echo_request_timeout	64	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmp.c:53:5:net_icmp_init_ctx	32	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmp.c:106:5:net_icmp_cleanup_ctx	16	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmp.c:482:5:net_icmp_send_echo_request	0	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmp.c:496:5:net_icmp_send_echo_request_no_wait	0	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmp.c:547:5:net_icmp_call_ipv4_handlers	32	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmp.c:559:5:net_icmp_call_ipv6_handlers	32	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmp.c:571:5:net_icmp_register_offload_ping	0	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmp.c:603:5:net_icmp_unregister_offload_ping	0	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmp.c:626:5:net_icmp_get_offload_rsp_handler	0	static

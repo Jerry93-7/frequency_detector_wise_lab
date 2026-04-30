@@ -1,0 +1,5 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_gd.c:29:18:spi_flash_chip_gd_get_caps	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_gd.c:42:11:spi_flash_chip_gd_detect_size	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_gd.c:102:11:spi_flash_chip_gd_get_io_mode	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_gd.c:69:11:spi_flash_chip_gd_probe	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_gd.c:85:11:spi_flash_chip_gd_set_io_mode	0	static

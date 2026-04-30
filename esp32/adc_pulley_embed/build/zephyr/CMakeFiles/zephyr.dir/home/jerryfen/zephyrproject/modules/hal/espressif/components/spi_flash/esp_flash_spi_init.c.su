@@ -1,0 +1,7 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/hal/esp32c6/include/hal/gpio_ll.h:451:20:gpio_ll_iomux_func_sel	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/esp_flash_spi_init.c:143:37:cs_initialize	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/hal/esp32c6/include/hal/spimem_flash_ll.h:552:23:spimem_flash_ll_get_source_freq_mhz	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/esp_flash_spi_init.c:295:11:spi_bus_remove_flash_device	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/esp_flash_spi_init.c:221:11:spi_bus_add_flash_device	112	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/esp_flash_spi_init.c:346:11:esp_flash_init_default_chip	96	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/esp_flash_spi_init.c:424:11:esp_flash_app_init	16	static

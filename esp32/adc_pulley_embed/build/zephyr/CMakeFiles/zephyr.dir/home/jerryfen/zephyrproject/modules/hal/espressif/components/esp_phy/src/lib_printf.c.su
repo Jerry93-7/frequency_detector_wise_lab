@@ -1,0 +1,13 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/lib_printf.c:26:12:lib_printf.constprop	96	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/lib_printf.c:45:5:phy_printf	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/lib_printf.c:55:5:rtc_printf	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/lib_printf.c:64:5:wpa_printf	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/lib_printf.c:73:5:wpa2_printf	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/lib_printf.c:82:5:wps_printf	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/lib_printf.c:91:5:pp_printf	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/lib_printf.c:100:5:sc_printf	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/lib_printf.c:109:5:core_printf	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/lib_printf.c:118:5:net80211_printf	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/lib_printf.c:127:5:coexist_printf	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/lib_printf.c:136:5:wapi_printf	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/lib_printf.c:145:5:mesh_printf	64	static

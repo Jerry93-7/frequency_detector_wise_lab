@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/src/soc_random.c:21:6:soc_random_enable	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/src/soc_random.c:79:6:soc_random_disable	16	static

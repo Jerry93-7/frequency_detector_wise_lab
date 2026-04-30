@@ -1,0 +1,16 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:25:11:spi_flash_chip_mxic_opi_probe	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:41:11:spi_flash_chip_mxic_opi_detect_size	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:56:18:spi_flash_chip_mxic_opi_get_caps	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:65:11:spi_flash_chip_mxic_opi_set_write_protect	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:168:11:spi_flash_chip_mxic_opi_erase_chip	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:199:11:spi_flash_chip_mxic_opi_erase_sector	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:228:11:spi_flash_chip_mxic_opi_erase_block	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:352:11:spi_flash_chip_xmic_opi_set_io_mode	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:362:11:spi_flash_chip_xmic_opi_config_host_io_mode	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:284:11:spi_flash_chip_mxic_opi_write	128	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:257:11:spi_flash_chip_mxic_opi_page_program	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:88:13:spi_flash_chip_mxic_opi_get_data_length_zoom	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:97:11:spi_flash_chip_mxic_opi_read_id	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:132:11:spi_flash_chip_mxic_opi_read_reg	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:312:11:spi_flash_chip_mxic_opi_get_io_mode	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_mxic_opi.c:154:11:spi_flash_chip_mxic_opi_get_write_protect	32	static

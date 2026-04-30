@@ -1,0 +1,7 @@
+/home/jerryfen/zephyrproject/zephyr/include/zephyr/net/net_ip.h:756:20:net_ipv6_is_addr_loopback_raw	0	static
+/home/jerryfen/zephyrproject/zephyr/include/zephyr/net/net_ip.h:1369:20:net_ipv6_is_addr_mcast_scope_raw	0	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/ipv6.c:60:5:net_ipv6_create	48	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/ipv6.c:118:5:net_ipv6_finalize	32	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/ipv6.c:478:18:net_ipv6_input	144	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/ipv6.c:960:5:net_ipv6_addr_generate_iid	32	static
+/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/ipv6.c:1054:6:net_ipv6_init	16	static

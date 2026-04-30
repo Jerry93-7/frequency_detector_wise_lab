@@ -1,0 +1,5 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_system/port/soc/esp32c6/clk.c:122:13:select_rtc_slow_clk	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_system/port/soc/esp32c6/clk.c:42:6:esp_rtc_init	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_system/port/soc/esp32c6/clk.c:58:28:esp_clk_init	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_system/port/soc/esp32c6/clk.c:187:6:rtc_clk_select_rtc_slow_clk	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_system/port/soc/esp32c6/clk.c:198:28:esp_perip_clk_init	16	static

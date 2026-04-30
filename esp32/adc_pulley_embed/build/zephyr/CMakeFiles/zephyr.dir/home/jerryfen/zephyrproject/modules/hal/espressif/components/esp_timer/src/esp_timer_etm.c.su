@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_etm.c:17:18:esp_timer_etm_event_del	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_etm.c:23:11:esp_timer_new_etm_alarm_event	16	static

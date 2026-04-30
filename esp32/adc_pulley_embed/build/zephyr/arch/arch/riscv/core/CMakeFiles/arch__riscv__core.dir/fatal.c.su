@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/fatal.c:34:11:z_riscv_get_sp_before_exc	0	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/fatal.c:55:13:z_riscv_mcause_str	0	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/fatal.c:80:20:z_riscv_fatal_error	48	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/fatal.c:203:6:z_riscv_fault	16	static

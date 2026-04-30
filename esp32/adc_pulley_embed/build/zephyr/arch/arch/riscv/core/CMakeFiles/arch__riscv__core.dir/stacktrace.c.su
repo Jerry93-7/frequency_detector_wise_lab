@@ -1,0 +1,6 @@
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/stacktrace.c:83:13:in_stack_bound	0	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/stacktrace.c:180:13:walk_stackframe	64	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/stacktrace.c:273:13:print_trace_address	16	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/stacktrace.c:235:13:in_fatal_stack_bound	0	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/stacktrace.c:222:6:arch_stack_walk	0	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/stacktrace.c:286:6:z_riscv_unwind_stack	48	static

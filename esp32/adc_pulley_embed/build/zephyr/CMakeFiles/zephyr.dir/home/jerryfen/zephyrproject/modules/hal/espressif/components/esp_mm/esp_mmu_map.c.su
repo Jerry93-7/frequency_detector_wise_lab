@@ -1,0 +1,15 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_mm/esp_mmu_map.c:367:37:s_do_cache_invalidate	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_mm/esp_mmu_map.c:381:37:s_do_mapping	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_mm/esp_mmu_map.c:561:37:s_do_unmapping	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_mm/esp_mmu_map.c:731:37:s_paddr_to_vaddr.constprop	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_mm/esp_mmu_map.c:702:37:s_vaddr_to_paddr.constprop	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_mm/esp_mmu_map.c:181:6:esp_mmu_map_init	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_mm/esp_mmu_map.c:263:11:esp_mmu_map_get_max_consecutive_free_block_size	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_mm/esp_mmu_map.c:299:11:esp_mmu_map_reserve_block_with_caps	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_mm/esp_mmu_map.c:329:21:esp_mmu_paddr_find_caps	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_mm/esp_mmu_map.c:413:11:esp_mmu_map	80	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_mm/esp_mmu_map.c:581:11:esp_mmu_unmap	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_mm/esp_mmu_map.c:627:11:esp_mmu_map_dump_mapped_blocks	192	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_mm/esp_mmu_map.c:674:21:esp_mmu_map_dump_mapped_blocks_private	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_mm/esp_mmu_map.c:713:11:esp_mmu_vaddr_to_paddr	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_mm/esp_mmu_map.c:742:11:esp_mmu_paddr_to_vaddr	48	static

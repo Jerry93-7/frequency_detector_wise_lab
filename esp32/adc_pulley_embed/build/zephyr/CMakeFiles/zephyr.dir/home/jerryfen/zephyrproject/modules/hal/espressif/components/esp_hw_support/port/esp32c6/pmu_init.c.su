@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_init.c:35:49:PMU_instance	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_init.c:45:6:pmu_hp_system_init	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_init.c:104:6:pmu_lp_system_init	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/port/esp32c6/pmu_init.c:209:6:pmu_init	48	static

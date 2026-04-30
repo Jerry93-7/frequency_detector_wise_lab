@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/rtc_module.c:103:11:rtc_isr_register	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/rtc_module.c:134:11:rtc_isr_deregister	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/rtc_module.c:186:16:rtc_isr_noniram_disable	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/rtc_module.c:196:16:rtc_isr_noniram_enable	0	static

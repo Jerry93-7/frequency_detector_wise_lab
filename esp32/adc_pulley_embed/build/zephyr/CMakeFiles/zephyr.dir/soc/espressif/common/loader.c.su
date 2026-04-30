@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/zephyr/soc/espressif/common/loader.c:110:6:map_rom_segments	96	static
+/home/jerryfen/zephyrproject/zephyr/soc/espressif/common/loader.c:268:6:__start	16	static

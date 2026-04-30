@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/log/log_noos.c:14:6:esp_log_impl_lock	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/log/log_noos.c:20:6:esp_log_impl_lock_timeout	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/log/log_noos.c:26:6:esp_log_impl_unlock	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/log/log_noos.c:33:10:esp_log_early_timestamp	16	static

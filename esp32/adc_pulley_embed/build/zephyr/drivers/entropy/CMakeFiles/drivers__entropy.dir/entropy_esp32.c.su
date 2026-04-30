@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/zephyr/drivers/entropy/entropy_esp32.c:79:12:entropy_esp32_get_entropy	80	static
+/home/jerryfen/zephyrproject/zephyr/drivers/entropy/entropy_esp32.c:97:12:entropy_esp32_init	16	static

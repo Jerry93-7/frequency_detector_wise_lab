@@ -1,0 +1,12 @@
+/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/wasmtime-rr-prototyping/adc_embed_nostd/src/bridge.c:125:13:wifi_event_handler	16	static
+/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/wasmtime-rr-prototyping/adc_embed_nostd/src/bridge.c:150:13:ipv4_event_handler	16	static
+/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/wasmtime-rr-prototyping/adc_embed_nostd/src/bridge.c:58:6:host_rr_write	16	static
+/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/wasmtime-rr-prototyping/adc_embed_nostd/src/bridge.c:228:5:wifi_init_and_connect	240	static
+/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/wasmtime-rr-prototyping/adc_embed_nostd/src/bridge.c:259:5:send_bytes	48	static
+/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/wasmtime-rr-prototyping/adc_embed_nostd/src/bridge.c:316:5:host_rr_uart_init	16	static
+/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/wasmtime-rr-prototyping/adc_embed_nostd/src/bridge.c:329:6:host_printk	0	static
+/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/wasmtime-rr-prototyping/adc_embed_nostd/src/bridge.c:334:5:host_adc_init	16	static
+/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/wasmtime-rr-prototyping/adc_embed_nostd/src/bridge.c:356:5:host_adc_read	16	static
+/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/wasmtime-rr-prototyping/adc_embed_nostd/src/bridge.c:366:5:host_adc_raw_to_millivolts	32	static
+/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/wasmtime-rr-prototyping/adc_embed_nostd/src/bridge.c:383:8:host_sin	0	static
+/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/wasmtime-rr-prototyping/adc_embed_nostd/src/bridge.c:384:8:host_cos	0	static

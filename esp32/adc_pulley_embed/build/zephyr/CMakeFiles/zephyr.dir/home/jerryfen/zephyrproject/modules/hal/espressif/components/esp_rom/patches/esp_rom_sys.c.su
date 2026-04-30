@@ -1,0 +1,1 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_rom/patches/esp_rom_sys.c:14:16:esp_rom_install_channel_putc	0	static

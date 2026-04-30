@@ -1,0 +1,5 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/src/soc_flash_init.c:34:6:flash_update_id	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/src/soc_flash_init.c:41:6:flash_cs_timing_config	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/src/soc_flash_init.c:49:6:flash_clock_config	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/src/soc_flash_init.c:72:6:configure_spi_pins	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/src/soc_flash_init.c:203:11:init_spi_flash	48	static

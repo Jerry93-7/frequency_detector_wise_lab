@@ -1,0 +1,16 @@
+/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/build/zephyr/include/generated/zephyr/syscalls/kernel.h:1098:19:k_mutex_unlock.constprop.isra	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/src/esp_efuse_api.c:33:11:esp_efuse_read_field_blob	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/src/esp_efuse_api.c:52:6:esp_efuse_read_field_bit	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/src/esp_efuse_api.c:61:11:esp_efuse_read_field_cnt	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/src/esp_efuse_api.c:81:11:esp_efuse_write_field_blob	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/src/esp_efuse_api.c:108:11:esp_efuse_write_field_cnt	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/src/esp_efuse_api.c:142:11:esp_efuse_write_field_bit	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/src/esp_efuse_api.c:162:5:esp_efuse_get_field_size	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/src/esp_efuse_api.c:186:11:esp_efuse_write_reg	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/src/esp_efuse_api.c:207:11:esp_efuse_read_block	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/src/esp_efuse_api.c:176:10:esp_efuse_read_reg	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/src/esp_efuse_api.c:227:11:esp_efuse_write_block	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/src/esp_efuse_api.c:246:11:esp_efuse_batch_write_begin	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/src/esp_efuse_api.c:257:11:esp_efuse_batch_write_cancel	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/src/esp_efuse_api.c:271:11:esp_efuse_batch_write_commit	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/src/esp_efuse_api.c:291:11:esp_efuse_check_errors	0	static

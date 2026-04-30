@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_oneshot_hal.c:34:6:adc_oneshot_hal_init	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_oneshot_hal.c:42:6:adc_oneshot_hal_channel_config	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_oneshot_hal.c:48:6:adc_oneshot_hal_setup	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_oneshot_hal.c:125:6:adc_oneshot_hal_convert	16	static

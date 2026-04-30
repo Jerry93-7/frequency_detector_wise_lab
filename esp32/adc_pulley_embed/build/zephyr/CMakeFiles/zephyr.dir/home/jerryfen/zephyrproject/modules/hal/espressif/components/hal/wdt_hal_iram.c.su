@@ -1,0 +1,11 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/wdt_hal_iram.c:14:6:wdt_hal_init	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/wdt_hal_iram.c:89:6:wdt_hal_deinit	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/wdt_hal_iram.c:117:6:wdt_hal_config_stage	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/wdt_hal_iram.c:128:6:wdt_hal_write_protect_disable	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/wdt_hal_iram.c:137:6:wdt_hal_write_protect_enable	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/wdt_hal_iram.c:146:6:wdt_hal_enable	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/wdt_hal_iram.c:157:6:wdt_hal_disable	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/wdt_hal_iram.c:166:6:wdt_hal_handle_intr	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/wdt_hal_iram.c:177:6:wdt_hal_feed	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/wdt_hal_iram.c:186:6:wdt_hal_set_flashboot_en	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/wdt_hal_iram.c:195:6:wdt_hal_is_enabled	0	static

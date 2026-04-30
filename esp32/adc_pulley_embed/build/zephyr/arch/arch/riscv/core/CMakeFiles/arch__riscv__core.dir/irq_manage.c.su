@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/irq_manage.c:21:20:z_irq_spurious	16	static
+/home/jerryfen/zephyrproject/zephyr/arch/riscv/core/irq_manage.c:51:5:arch_irq_connect_dynamic	16	static

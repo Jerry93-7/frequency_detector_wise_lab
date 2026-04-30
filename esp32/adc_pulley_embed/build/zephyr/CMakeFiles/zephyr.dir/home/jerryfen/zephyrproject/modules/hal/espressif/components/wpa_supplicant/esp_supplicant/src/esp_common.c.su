@@ -1,0 +1,17 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:203:12:ieee80211_handle_rx_frm	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:28:11:esp_supplicant_str_to_mac	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:195:6:esp_supplicant_unset_all_appie	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:301:6:esp_supplicant_common_deinit	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:268:5:esp_supplicant_common_init	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:318:6:supplicant_sta_conn_handler	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:342:6:supplicant_sta_disconn_handler	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:566:6:wpa_supplicant_connect	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:671:6:esp_get_tx_power	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:686:5:wpa_drv_send_action	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:722:6:esp_set_scan_ie	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:723:6:esp_wnm_is_btm_supported_connection	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:727:5:esp_wnm_send_bss_transition_mgmt_query	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:736:6:esp_rrm_is_rrm_supported_connection	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:741:5:esp_rrm_send_neighbor_report_request	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:746:5:esp_rrm_send_neighbor_rep_request	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/esp_supplicant/src/esp_common.c:798:6:esp_set_assoc_ie	0	static

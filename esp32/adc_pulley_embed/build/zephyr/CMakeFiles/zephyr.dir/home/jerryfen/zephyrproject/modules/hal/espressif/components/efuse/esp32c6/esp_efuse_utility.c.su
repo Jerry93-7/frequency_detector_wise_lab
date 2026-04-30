@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/esp32c6/esp_efuse_utility.c:65:6:esp_efuse_utility_clear_program_registers	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/esp32c6/esp_efuse_utility.c:71:11:esp_efuse_utility_check_errors	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/esp32c6/esp_efuse_utility.c:77:11:esp_efuse_utility_burn_chip	128	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/efuse/esp32c6/esp_efuse_utility.c:181:11:esp_efuse_utility_apply_new_coding_scheme	32	static

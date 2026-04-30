@@ -1,0 +1,15 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/phy_init.c:214:20:phy_enter_critical	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/phy_init.c:222:16:phy_exit_critical	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/phy_init.c:255:16:esp_phy_common_clock_enable	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/phy_init.c:260:16:esp_phy_common_clock_disable	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/phy_init.c:343:6:esp_phy_disable	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/phy_init.c:383:16:esp_wifi_bt_power_domain_on	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/phy_init.c:408:6:esp_wifi_bt_power_domain_off	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/phy_init.c:422:6:esp_phy_modem_init	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/phy_init.c:439:6:esp_phy_modem_deinit	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/phy_init.c:677:28:esp_phy_get_init_data	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/phy_init.c:683:6:esp_phy_release_init_data	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/phy_init.c:701:6:esp_phy_load_cal_and_init	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/phy_init.c:282:6:esp_phy_enable	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/phy_init.c:1016:11:esp_phy_update_country_info	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_phy/src/phy_init.c:1049:17:phy_get_lock	0	static

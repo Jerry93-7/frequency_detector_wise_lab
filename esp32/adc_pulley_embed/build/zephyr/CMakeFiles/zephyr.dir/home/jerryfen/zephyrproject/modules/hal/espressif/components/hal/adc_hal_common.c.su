@@ -1,0 +1,5 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_hal_common.c:124:17:read_cal_channel	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_hal_common.c:65:6:adc_hal_set_controller	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_hal_common.c:91:6:adc_hal_calibration_init	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_hal_common.c:100:6:adc_hal_set_calibration_param	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/adc_hal_common.c:150:10:adc_hal_self_calibration	96	static

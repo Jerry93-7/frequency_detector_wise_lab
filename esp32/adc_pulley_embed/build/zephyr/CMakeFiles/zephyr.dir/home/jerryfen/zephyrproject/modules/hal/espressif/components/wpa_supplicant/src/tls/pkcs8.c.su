@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/pkcs8.c:19:29:pkcs8_key_import	224	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/pkcs8.c:111:1:pkcs8_enc_key_import	64	static

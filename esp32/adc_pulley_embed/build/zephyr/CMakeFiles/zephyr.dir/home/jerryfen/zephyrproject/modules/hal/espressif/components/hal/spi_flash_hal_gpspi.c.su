@@ -1,0 +1,9 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/hal/esp32c6/include/hal/gpspi_flash_ll.h:80:20:gpspi_flash_ll_get_buffer_data	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/spi_flash_hal_common.inc:36:6:spi_flash_hal_gpspi_poll_cmd_done	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/spi_flash_hal_common.inc:43:11:spi_flash_hal_gpspi_device_config	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/spi_flash_hal_common.inc:79:11:spi_flash_hal_gpspi_configure_host_io_mode	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/spi_flash_hal_common.inc:148:11:spi_flash_hal_gpspi_common_command	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/spi_flash_hal_common.inc:181:11:spi_flash_hal_gpspi_read	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/spi_flash_hal_gpspi.c:29:6:spi_flash_hal_gpspi_supports_direct_write	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/spi_flash_hal_gpspi.c:34:6:spi_flash_hal_gpspi_supports_direct_read	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/hal/spi_flash_hal_gpspi.c:39:10:spi_flash_hal_gpspi_check_status	0	static

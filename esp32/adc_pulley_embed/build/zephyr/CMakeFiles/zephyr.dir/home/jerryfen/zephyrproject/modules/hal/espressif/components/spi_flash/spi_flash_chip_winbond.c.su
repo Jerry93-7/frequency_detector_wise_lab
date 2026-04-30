@@ -1,0 +1,6 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_winbond.c:34:11:spi_flash_chip_winbond_probe	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_winbond.c:147:18:spi_flash_chip_winbond_get_caps	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_winbond.c:45:11:spi_flash_chip_winbond_read	128	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_winbond.c:123:11:spi_flash_chip_winbond_erase_block	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_winbond.c:99:11:spi_flash_chip_winbond_erase_sector	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_winbond.c:81:11:spi_flash_chip_winbond_page_program	64	static

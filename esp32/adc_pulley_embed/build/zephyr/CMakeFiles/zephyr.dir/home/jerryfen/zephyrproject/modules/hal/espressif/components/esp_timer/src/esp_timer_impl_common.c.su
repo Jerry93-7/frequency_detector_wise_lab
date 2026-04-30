@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_impl_common.c:25:6:esp_timer_impl_lock	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_impl_common.c:32:6:esp_timer_impl_unlock	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_impl_common.c:43:16:esp_timer_impl_set_alarm	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer_impl_common.c:75:20:esp_timer_impl_get_min_period_us	0	static

@@ -1,0 +1,59 @@
+cmake:
+  application:
+    configuration-dir: '/home/jerryfen/zephyrproject/zephyr/apps/wasmtime-rr-prototyping/pulley_exp_wasmtime_nostd'
+    source-dir: '/home/jerryfen/zephyrproject/zephyr/apps/wasmtime-rr-prototyping/pulley_exp_wasmtime_nostd'
+  board:
+    name: 'qemu_riscv32'
+    path:
+     - '/home/jerryfen/zephyrproject/zephyr/boards/qemu/riscv32'
+    qualifiers: 'qemu_virt_riscv32'
+    revision: ''
+  devicetree:
+    bindings-dirs:
+     - '/home/jerryfen/zephyrproject/zephyr/dts/bindings'
+    files:
+     - '/home/jerryfen/zephyrproject/zephyr/boards/qemu/riscv32/qemu_riscv32.dts'
+    include-dirs:
+     - '/home/jerryfen/zephyrproject/modules/hal/ambiq/dts'
+     - '/home/jerryfen/zephyrproject/modules/hal/atmel/include'
+     - '/home/jerryfen/zephyrproject/modules/hal/bouffalolab/include'
+     - '/home/jerryfen/zephyrproject/modules/hal/bouffalolab/include/zephyr'
+     - '/home/jerryfen/zephyrproject/modules/hal/gigadevice/include'
+     - '/home/jerryfen/zephyrproject/modules/hal/microchip/include'
+     - '/home/jerryfen/zephyrproject/modules/hal/microchip/dts'
+     - '/home/jerryfen/zephyrproject/modules/hal/nuvoton/dts'
+     - '/home/jerryfen/zephyrproject/modules/hal/nxp/dts'
+     - '/home/jerryfen/zephyrproject/modules/hal/stm32/dts'
+     - '/home/jerryfen/zephyrproject/modules/hal/ti/dts'
+     - '/home/jerryfen/zephyrproject/zephyr/include'
+     - '/home/jerryfen/zephyrproject/zephyr/include/zephyr'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/common'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/vendor'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/rx'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/x86'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/xtensa'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/sparc'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/riscv'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/posix'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/arm64'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/arm'
+     - '/home/jerryfen/zephyrproject/zephyr/dts/arc'
+     - '/home/jerryfen/zephyrproject/zephyr/dts'
+  kconfig:
+    files:
+     - '/home/jerryfen/zephyrproject/zephyr/boards/qemu/riscv32/qemu_riscv32_defconfig'
+     - '/home/jerryfen/zephyrproject/zephyr/apps/wasmtime-rr-prototyping/pulley_exp_wasmtime_nostd/prj.conf'
+     - '/home/jerryfen/zephyrproject/zephyr/apps/wasmtime-rr-prototyping/pulley_exp_wasmtime_nostd/build/zephyr/misc/generated/extra_kconfig_options.conf'
+    user-files:
+     - '/home/jerryfen/zephyrproject/zephyr/apps/wasmtime-rr-prototyping/pulley_exp_wasmtime_nostd/prj.conf'
+  toolchain:
+    name: 'zephyr'
+    path: '/home/jerryfen/zephyr-sdk-0.17.4'
+  zephyr:
+    version: '4.3.99'
+    zephyr-base: '/home/jerryfen/zephyrproject/zephyr'
+version: '0.1.0'
+west:
+  command: '/home/jerryfen/zephyrproject/.venv/bin/west build -b qemu_riscv32 -- -DCONFIG_RUST=y .'
+  topdir: '/home/jerryfen/zephyrproject'
+  version: '1.5.0'

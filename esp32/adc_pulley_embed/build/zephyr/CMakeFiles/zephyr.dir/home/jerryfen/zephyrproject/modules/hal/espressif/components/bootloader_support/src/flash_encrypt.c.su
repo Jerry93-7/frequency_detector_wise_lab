@@ -1,0 +1,6 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/src/flash_encrypt.c:86:16:esp_flash_encryption_enabled	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/src/flash_encrypt.c:109:6:esp_flash_write_protect_crypt_cnt	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/src/flash_encrypt.c:114:22:esp_get_flash_encryption_mode	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/src/flash_encrypt.c:30:6:esp_flash_encryption_init_checks	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/src/flash_encrypt.c:167:6:esp_flash_encryption_set_release_mode	32	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/bootloader_support/src/flash_encrypt.c:314:6:esp_flash_encryption_cfg_verify_release_mode	48	static

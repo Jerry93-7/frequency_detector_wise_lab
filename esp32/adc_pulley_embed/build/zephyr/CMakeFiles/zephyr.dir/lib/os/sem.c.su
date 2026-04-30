@@ -1,0 +1,4 @@
+/home/jerryfen/zephyrproject/zephyr/lib/os/sem.c:108:5:sys_sem_init	16	static
+/home/jerryfen/zephyrproject/zephyr/lib/os/sem.c:116:5:sys_sem_give	16	static
+/home/jerryfen/zephyrproject/zephyr/lib/os/sem.c:123:5:sys_sem_take	16	static
+/home/jerryfen/zephyrproject/zephyr/lib/os/sem.c:135:14:sys_sem_count_get	0	static

@@ -1,0 +1,27 @@
+[package]
+name = "pulley_exp_wasmtime_with_std"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+default = ["rr"]
+alloc = []
+rr = [
+  "wasmtime/rr"
+]
+
+[dependencies.wasmtime]
+path = "../crates/wasmtime"
+default-features = false
+features = [
+    "runtime",
+    "component-model",
+    "pulley",
+    "cranelift",
+    "std",
+    "gc-null",
+]
+
+
+[profile.release]
+panic = "abort"

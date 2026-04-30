@@ -1,0 +1,10 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/wpa_supplicant/src/utils/common.h:162:19:WPA_GET_BE32	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:27:12:get_ie	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:40:5:ieee802_11_ie_count	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:56:12:get_vendor_ie	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:70:8:mbo_add_ie	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:93:5:ieee802_11_parse_candidate_list	64	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:269:5:ieee802_11_parse_elems	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:318:17:ieee802_11_vendor_ie_concat	48	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:351:5:ieee802_11_ext_capab	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/common/ieee802_11_common.c:358:4:get_operating_class	0	static

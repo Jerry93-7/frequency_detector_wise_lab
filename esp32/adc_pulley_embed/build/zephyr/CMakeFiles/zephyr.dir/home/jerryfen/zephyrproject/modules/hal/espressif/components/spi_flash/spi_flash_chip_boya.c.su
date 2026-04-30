@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_boya.c:20:11:spi_flash_chip_boya_probe	0	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/spi_flash/spi_flash_chip_boya.c:37:18:spi_flash_chip_boya_get_caps	0	static

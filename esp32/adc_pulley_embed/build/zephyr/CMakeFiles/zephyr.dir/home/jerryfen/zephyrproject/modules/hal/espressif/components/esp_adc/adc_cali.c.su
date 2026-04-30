@@ -1,0 +1,2 @@
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_adc/adc_cali.c:23:11:adc_cali_check_scheme	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_adc/adc_cali.c:40:11:adc_cali_raw_to_voltage	16	static
