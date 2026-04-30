@@ -89,7 +89,7 @@ target = "aarch64-unknown-linux-gnu"
 [target.aarch64-unknown-linux-gnu]
 linker = "aarch64-linux-gnu-gcc"
 rustflags = [
-    "-C", "link-arg=--sysroot=`<path to sysroot directory>`",
+    "-C", "link-arg=--sysroot=&lt;path to sysroot directory&gt;",
 ]
 ``` </pre>
 
@@ -102,10 +102,10 @@ fn main() {
     cc::Build::new()
         .file("src/bridge.c")
         .compiler("aarch64-linux-gnu-gcc")
-        .flag("--sysroot=`<path to sysroot>`")
+        .flag("--sysroot=&lt;path to sysroot&gt;")
         .compile("bridge");
 
-    println!("cargo:rustc-link-search=native=`<path to sysroot>`/usr/lib/aarch64-linux-gnu");
+    println!("cargo:rustc-link-search=native=&lt;path to sysroot&gt;/usr/lib/aarch64-linux-gnu");
     println!("cargo:rustc-link-lib=asound");
 }
 ``` </pre>
