@@ -1,12 +1,91 @@
 # frequency_detector_wise_lab
 This is a frequency detector that I got to run using the wasmtime engine on esp32c6_devkitc.  
+Both projects were run on WSL Ubuntu with the following information:
+- WSL version: 6.6.87.2-microsoft-standard-WSL2
+- Ubuntu version: Ubuntu 24.04.3 LTS
+
+Zephyr Version: 4.3.0
+- Additional information included in the west-manifest.yml file
+
+Rust Version: rustc 1.95.0-nightly (842bd5be2 2026-01-29)
+Cargo Version: cargo 1.95.0-nightly (efcd9f586 2026-01-23)
+rustup Information:
+Default host: x86_64-unknown-linux-gnu
+rustup home:  /home/jerryfen/.rustup
+
+installed targets for active toolchain
+--------------------------------------
+
+aarch64-unknown-linux-gnu
+riscv32i-unknown-none-elf
+riscv32imac-unknown-none-elf
+riscv64gc-unknown-linux-gnu
+riscv64imac-unknown-none-elf
+wasm32-unknown-unknown
+wasm32-wasip1
+wasm32-wasip2
+x86_64-unknown-linux-gnu
+
+active toolchain
+----------------
+
+nightly-x86_64-unknown-linux-gnu (default)
+rustc 1.95.0-nightly (842bd5be2 2026-01-29)
+
 
 ## ESP32C6 Devkitc
 The esp32 directory was placed under the zephyrproject/zephyr/apps/ directory (I created the "apps" directory under the zephyr directory myself).
 
+
 ### Pins for ESP32:
 Setup one of the adc capable GPIO pins in the board overlay file.  Also the secondary uart is necessary for transmitting rr bytes back to 
-the laptop host device.  Any WIFI stuff in bridge.c did not work out and can be removed.
+the laptop host device.  Here is the GPIO setup used in the project currently pushed to git:
+
+GPIO3: ADC Pin
+GPIO4 => Connect to RX on USB to UART Cable
+GPIO5 => Connect to TX on USB to UART Cable
+
+### Workflow
+- Navigate to the "esp32/adc_embed" directory and run the following command to build the .wasm file:
+<pre> ```clang --target=wasm32 -nostdlib -Wl,--no-entry -Wl,--export-all -o wasm_component/adc.wasm src/kiss_fft.c src/main.c src/wasm_libc.c``` </pre>
+
+  - We have a shim.h, which is mainly to get the compiler to actually compile the code instead of complaining about undefined functions.  Broadly speaking, the general pattern is that we want any device specific functions (i.e. any peripheral function like "adc_read_dt") should be put in the interface (.wit file) and we keep everything else in application code.
+  - I did not use wit bindgen to generate the .wit file because for printk, I did not like having to deal with what the bindgen created, and prefered to do something a bit more hacky (take in the string, and pass it to the rust side code.  Then in the rust side code pass the string pointer and length to the actual extern c implementations)
+
+- Run the following command to embed the "adc.wit" interface into the "adc.wasm" file to produce the new "adc_embed.wasm" file:
+<pre> ```wasm-tools component embed adc.wit wasm_component/adc.wasm -o wasm_component/adc_embed.wasm``` </pre>
+
+- Run the following command to create a new component out of the "adc_embed.wasm" file with the component as the filw "adc.component.wasm":
+<pre> ```wasm-tools component new wasm_component/adc_embed.wasm -o wasm_component/adc.component.wasm``` </pre>
+
+- Navigate to the "esp32/adc_pulley_embed/wasmtime-rr-prototyping/target/debug/" directory and run the "pulley_exp_wasmtime_with_std" executable to create the "adc.rr.cwasm" file.  This .cwasm file will be embedded as bytes in the rust side code and will be run with pulley32.
+
+- Navigate to the "esp32/adc_pulley_embed/wasmtime-rr-prototyping/adc_embed_nostd/" directory and then run the following command:
+<pre> ```RUSTFLAGS="-C link-arg=--initial-memory=65536 -C link-arg=--stack-first -C link-arg=-zstack-size=4096"   cargo build --release --target riscv32imac-unknown-none-elf``` </pre>
+
+Note all of this can be done automatically for you by running <pre> ```./script.sh``` </pre> in the "esp32/adc_pulley_embed" directory.
+
+- Navigate to the "esp32/adc_pulley_embed" directory and run the following commands to build and then flash the esp32:
+<pre> ```
+west build -b esp32c6_devkitc . -p always -- -DDTC_OVERLAY_FILE=boards/esp32c6_devkitc.overlay
+west flash
+``` </pre>
+
+From here you should be able to see the frequencies being printed out by running <pre> ```west espressif monitor``` </pre>.  
+
+For record replay follow the preceding instructions:
+
+- Open 3 terminals and navigate all of them to the "esp32/adc_pulley_embed" directory
+
+- In 1 terminal in the ~/zephyrproject/zephyr/apps/adc_pulley_embed run:
+<pre> ```python3 fifo_proc/write_fifo.py``` </pre>
+
+- In another terminal run:
+<pre> ```WASMTIME_LOG=debug &lt;path to wasmtime executable&gt; replay --trace /tmp/uart_data -d 4096 esp32/adc_embed/wasm_component/adc.component.wasm``` </pre>
+
+- Now in the final terminal run <pre> ```west flash``` </pre>.  You should see record replay continuously running in the terminal running wasmtime
+
+The python script waits for a "magic sequence" that gets printed in the rust code before transmitting bytes to the record replay.  Feel free to modify to your liking.
 
 ## Raspberry Pi Zero 2 W
 
