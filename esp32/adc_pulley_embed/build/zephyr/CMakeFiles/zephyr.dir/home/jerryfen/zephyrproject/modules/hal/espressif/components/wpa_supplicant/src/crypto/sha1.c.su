@@ -1,2 +1,0 @@
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha1.c:26:5:hmac_sha1_vector	192	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha1.c:104:5:hmac_sha1	32	static

@@ -152,8 +152,3 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/build/zephyr/subsys/usb/cmake_install.cmake")
 endif()
 
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for the subdirectory.
-  include("/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/build/zephyr/subsys/net/cmake_install.cmake")
-endif()
-

@@ -1,3 +1,0 @@
-/home/jerryfen/zephyrproject/zephyr/include/zephyr/sys/fdtable.h:229:19:zvfs_fdtable_call_ioctl	64	static
-/home/jerryfen/zephyrproject/zephyr/lib/os/zvfs/zvfs_poll.c:20:5:zvfs_poll_internal	160	static
-/home/jerryfen/zephyrproject/zephyr/lib/os/zvfs/zvfs_poll.c:172:5:z_impl_zvfs_poll	0	static

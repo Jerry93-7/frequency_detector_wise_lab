@@ -1,3 +1,0 @@
-/home/jerryfen/zephyrproject/zephyr/subsys/net/lib/sockets/getaddrinfo.c:435:5:zsock_getaddrinfo	48	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/lib/sockets/getaddrinfo.c:475:6:zsock_freeaddrinfo	0	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/lib/sockets/getaddrinfo.c:486:13:zsock_gai_strerror	0	static

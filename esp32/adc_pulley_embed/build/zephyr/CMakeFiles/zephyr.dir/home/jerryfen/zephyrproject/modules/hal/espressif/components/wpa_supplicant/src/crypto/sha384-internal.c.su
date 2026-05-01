@@ -1,4 +1,0 @@
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha384-internal.c:52:6:sha384_init	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha384-internal.c:66:5:sha384_process	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha384-internal.c:78:5:sha384_done	80	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha384-internal.c:24:5:sha384_vector	240	static

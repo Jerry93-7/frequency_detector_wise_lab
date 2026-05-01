@@ -1,7 +1,0 @@
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/udp.c:20:5:net_udp_create	32	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/udp.c:38:5:net_udp_finalize	48	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/udp.c:64:21:net_udp_get_hdr	48	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/udp.c:95:21:net_udp_set_hdr	48	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/udp.c:130:5:net_udp_register	32	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/udp.c:145:5:net_udp_unregister	0	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/udp.c:150:21:net_udp_input	32	static

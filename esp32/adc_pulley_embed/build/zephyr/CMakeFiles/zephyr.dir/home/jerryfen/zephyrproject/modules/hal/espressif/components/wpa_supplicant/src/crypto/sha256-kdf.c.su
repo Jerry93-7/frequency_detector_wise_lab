@@ -1,2 +1,0 @@
-/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/wpa_supplicant/port/include/os.h:349:20:forced_memzero.constprop	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha256-kdf.c:32:5:hmac_sha256_kdf	128	static

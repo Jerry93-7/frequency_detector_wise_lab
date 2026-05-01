@@ -10,5 +10,3 @@
 /home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:85:6:periph_module_reset	32	static
 /home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:94:16:wifi_bt_common_module_enable	0	static
 /home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:108:16:wifi_bt_common_module_disable	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:124:6:wifi_module_enable	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_hw_support/periph_ctrl.c:135:6:wifi_module_disable	0	static

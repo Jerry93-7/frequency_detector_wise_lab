@@ -1,4 +1,0 @@
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_timeout.c:10:6:net_timeout_set	16	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_timeout.c:44:9:net_timeout_deadline	0	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_timeout.c:64:10:net_timeout_remaining	16	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_timeout.c:78:10:net_timeout_evaluate	0	static

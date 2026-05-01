@@ -1,2 +1,0 @@
-/home/jerryfen/zephyrproject/zephyr/subsys/net/lib/utils/addr_utils.c:11:13:net_addr_str_find_port	16	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/lib/utils/addr_utils.c:33:5:net_getaddrinfo_addr_str	112	static

@@ -1,5 +1,0 @@
-/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/wpa_supplicant/src/utils/common.h:162:19:WPA_GET_BE32	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/rsn_supp/wpa_ie.c:33:6:wpa_parse_wpa_ie	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/rsn_supp/wpa_ie.c:272:6:wpa_gen_wpa_ie	32	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/rsn_supp/wpa_ie.c:291:5:wpa_gen_rsnxe	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/rsn_supp/wpa_ie.c:405:6:wpa_supplicant_parse_ies	48	static

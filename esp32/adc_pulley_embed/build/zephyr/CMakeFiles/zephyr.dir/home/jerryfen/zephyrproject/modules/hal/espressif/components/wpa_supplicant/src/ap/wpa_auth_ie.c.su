@@ -1,8 +1,0 @@
-/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/wpa_supplicant/src/utils/common.h:162:19:WPA_GET_BE32	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:88:5:wpa_write_rsn_ie	32	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:302:5:wpa_write_rsnxe	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:329:5:wpa_auth_gen_wpa_ie	160	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:375:6:wpa_add_kde	16	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:393:1:wpa_validate_wpa_ie	96	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:734:5:wpa_parse_kde_ies	48	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/ap/wpa_auth_ie.c:789:5:wpa_auth_uses_mfp	0	static

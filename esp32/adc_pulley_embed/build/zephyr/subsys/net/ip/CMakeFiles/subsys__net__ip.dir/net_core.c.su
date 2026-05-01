@@ -1,8 +1,0 @@
-/home/jerryfen/zephyrproject/zephyr/include/zephyr/net/net_ip.h:756:20:net_ipv6_is_addr_loopback_raw	0	static
-/home/jerryfen/zephyrproject/zephyr/include/zephyr/net/net_if.h:890:20:net_if_flag_is_set	16	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_core.c:697:12:net_init	16	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_core.c:520:13:net_queue_rx.constprop	16	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_core.c:171:20:copy_ll_addr	16	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_core.c:511:6:net_process_rx_packet	16	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_core.c:549:5:net_recv_data	16	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/net_core.c:370:5:net_try_send_data	48	static

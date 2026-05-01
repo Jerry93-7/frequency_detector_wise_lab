@@ -1,5 +1,0 @@
-/home/jerryfen/zephyrproject/zephyr/lib/os/zvfs/zvfs_select.c:27:6:ZVFS_FD_ZERO	0	static
-/home/jerryfen/zephyrproject/zephyr/lib/os/zvfs/zvfs_select.c:36:5:ZVFS_FD_ISSET	0	static
-/home/jerryfen/zephyrproject/zephyr/lib/os/zvfs/zvfs_select.c:49:6:ZVFS_FD_CLR	0	static
-/home/jerryfen/zephyrproject/zephyr/lib/os/zvfs/zvfs_select.c:62:6:ZVFS_FD_SET	0	static
-/home/jerryfen/zephyrproject/zephyr/lib/os/zvfs/zvfs_select.c:75:5:z_impl_zvfs_select	96	static

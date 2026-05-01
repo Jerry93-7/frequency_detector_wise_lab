@@ -1,6 +1,0 @@
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmpv4.c:33:5:net_icmpv4_create	32	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmpv4.c:415:12:icmpv4_handle_echo_request	48	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmpv4.c:51:5:net_icmpv4_finalize	32	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmpv4.c:515:5:net_icmpv4_send_error	64	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmpv4.c:611:18:net_icmpv4_input	48	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/icmpv4.c:764:6:net_icmpv4_init	0	static

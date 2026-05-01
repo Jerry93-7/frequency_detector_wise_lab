@@ -1,3 +1,0 @@
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/wpa_debug.c:14:1:_wpa_snprintf_hex.constprop	32	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/wpa_debug.c:43:6:wpa_snprintf_hex_uppercase	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/wpa_debug.c:48:6:wpa_snprintf_hex	0	static

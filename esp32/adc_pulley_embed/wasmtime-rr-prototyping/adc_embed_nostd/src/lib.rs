@@ -58,11 +58,8 @@ impl BufWriter {
 impl RecordWriter for BufWriter
 {
     fn write(&mut self, data: &[u8]) -> Result<usize, Error> {
-        // unsafe { host_rr_write(data.as_ptr(), data.len()) };
-        // Ok(data.len())
-        unsafe { send_bytes(data.as_ptr(), data.len()) };
+        unsafe { host_rr_write(data.as_ptr(), data.len()) };
         Ok(data.len())
-        // Ok(0)
     }
     fn flush(&mut self) -> Result<(), Error> { Ok(()) }
 }

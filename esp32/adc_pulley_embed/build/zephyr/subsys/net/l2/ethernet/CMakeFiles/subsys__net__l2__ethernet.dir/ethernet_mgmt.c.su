@@ -1,9 +1,0 @@
-/home/jerryfen/zephyrproject/zephyr/subsys/net/l2/ethernet/ethernet_mgmt.c:16:20:is_hw_caps_supported	16	static
-/home/jerryfen/zephyrproject/zephyr/include/zephyr/net/net_if.h:890:20:net_if_flag_is_set	16	static
-/home/jerryfen/zephyrproject/zephyr/include/zephyr/net/net_if.h:3044:20:net_if_is_up	16	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/l2/ethernet/ethernet_mgmt.c:28:12:ethernet_set_config	128	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/l2/ethernet/ethernet_mgmt.c:210:12:ethernet_get_config	112	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/l2/ethernet/ethernet_mgmt.c:444:6:ethernet_mgmt_raise_carrier_on_event	0	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/l2/ethernet/ethernet_mgmt.c:449:6:ethernet_mgmt_raise_carrier_off_event	0	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/l2/ethernet/ethernet_mgmt.c:454:6:ethernet_mgmt_raise_vlan_enabled_event	32	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/l2/ethernet/ethernet_mgmt.c:465:6:ethernet_mgmt_raise_vlan_disabled_event	32	static

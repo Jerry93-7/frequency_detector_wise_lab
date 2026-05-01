@@ -1,7 +1,0 @@
-/home/jerryfen/zephyrproject/modules/hal/espressif/zephyr/esp32c6/../../components/wpa_supplicant/src/utils/common.h:150:19:WPA_GET_BE24	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:1187:12:tls_process_server_hello_done	32	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:1123:12:tls_process_certificate_request	32	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:804:1:tls_process_certificate_status_ocsp_response	16	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:1026:12:tls_process_server_key_exchange	144	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:359:12:tls_process_certificate	320	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/tls/tlsv1_client_read.c:1488:5:tlsv1_client_process_handshake	112	static

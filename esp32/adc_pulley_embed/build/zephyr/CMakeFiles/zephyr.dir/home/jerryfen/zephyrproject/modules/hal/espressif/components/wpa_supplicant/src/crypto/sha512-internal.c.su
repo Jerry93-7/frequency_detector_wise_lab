@@ -1,5 +1,0 @@
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha512-internal.c:110:12:sha512_compress	144	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha512-internal.c:164:6:sha512_init	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha512-internal.c:186:5:sha512_process	32	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha512-internal.c:226:5:sha512_done	16	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/crypto/sha512-internal.c:24:5:sha512_vector	240	static

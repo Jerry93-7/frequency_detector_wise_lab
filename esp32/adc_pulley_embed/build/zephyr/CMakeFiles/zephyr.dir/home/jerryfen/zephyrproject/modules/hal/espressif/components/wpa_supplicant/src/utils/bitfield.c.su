@@ -1,6 +1,0 @@
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/bitfield.c:21:19:bitfield_alloc	16	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/bitfield.c:34:6:bitfield_free	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/bitfield.c:40:6:bitfield_set	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/bitfield.c:48:6:bitfield_clear	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/bitfield.c:56:5:bitfield_is_set	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/wpa_supplicant/src/utils/bitfield.c:76:5:bitfield_get_first_zero	0	static

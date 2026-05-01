@@ -1,7 +1,6 @@
 /home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer.c:346:28:timer_remove	16	static
 /home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer.c:318:28:timer_insert	16	static
 /home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer.c:480:23:timer_alarm_handler	0	static
-/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer.c:543:11:esp_timer_init	48	static
 /home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer.c:463:13:timer_task	64	static
 /home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer.c:121:11:esp_timer_create	16	static
 /home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer.c:157:21:esp_timer_restart	48	static
@@ -10,6 +9,7 @@
 /home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer.c:270:21:esp_timer_stop	16	static
 /home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer.c:291:11:esp_timer_delete	16	static
 /home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer.c:501:11:esp_timer_early_init	16	static
+/home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer.c:543:11:esp_timer_init	48	static
 /home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer.c:562:11:esp_timer_deinit	16	static
 /home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer.c:616:11:esp_timer_dump	48	static
 /home/jerryfen/zephyrproject/modules/hal/espressif/components/esp_timer/src/esp_timer.c:684:19:esp_timer_get_next_alarm	0	static

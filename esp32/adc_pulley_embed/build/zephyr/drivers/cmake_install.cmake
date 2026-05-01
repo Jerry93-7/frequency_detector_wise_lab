@@ -89,16 +89,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/build/zephyr/drivers/entropy/cmake_install.cmake")
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for the subdirectory.
-  include("/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/build/zephyr/drivers/ethernet/cmake_install.cmake")
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for the subdirectory.
   include("/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/build/zephyr/drivers/gpio/cmake_install.cmake")
 endif()
 
@@ -115,10 +105,5 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
   include("/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/build/zephyr/drivers/timer/cmake_install.cmake")
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for the subdirectory.
-  include("/home/jerryfen/zephyrproject/zephyr/apps/adc_pulley_embed/build/zephyr/drivers/wifi/cmake_install.cmake")
 endif()
 

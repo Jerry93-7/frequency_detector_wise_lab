@@ -1,9 +1,0 @@
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/nbr.c:26:6:net_nbr_unref	0	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/nbr.c:47:17:net_nbr_ref	0	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/nbr.c:68:17:net_nbr_get	0	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/nbr.c:85:5:net_nbr_link	48	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/nbr.c:136:5:net_nbr_unlink	16	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/nbr.c:160:17:net_nbr_lookup	48	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/nbr.c:180:22:net_nbr_get_lladdr	0	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/nbr.c:189:6:net_nbr_clear_table	32	static
-/home/jerryfen/zephyrproject/zephyr/subsys/net/ip/nbr.c:208:6:net_nbr_print	0	static
