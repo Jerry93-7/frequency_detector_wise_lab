@@ -81,7 +81,7 @@ For record replay follow the preceding instructions:
 <pre> python3 fifo_proc/write_fifo.py </pre>
 
 - In another terminal run:
-<pre> ```WASMTIME_LOG=debug &lt;path to wasmtime executable&gt; replay --trace /tmp/uart_data -d 4096 esp32/adc_embed/wasm_component/adc.component.wasm``` </pre>
+<pre> WASMTIME_LOG=debug &lt;path to wasmtime executable&gt; replay --trace /tmp/uart_data -d 4096 esp32/adc_embed/wasm_component/adc.component.wasm </pre>
 
 - Now in the final terminal run <pre> west flash </pre>.  You should see record replay continuously running in the terminal running wasmtime
 
