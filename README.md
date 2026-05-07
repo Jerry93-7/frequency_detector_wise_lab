@@ -16,21 +16,21 @@ rustup home:  /home/jerryfen/.rustup
 installed targets for active toolchain
 --------------------------------------
 
-aarch64-unknown-linux-gnu
-riscv32i-unknown-none-elf
-riscv32imac-unknown-none-elf
-riscv64gc-unknown-linux-gnu
-riscv64imac-unknown-none-elf
-wasm32-unknown-unknown
-wasm32-wasip1
-wasm32-wasip2
-x86_64-unknown-linux-gnu
+- aarch64-unknown-linux-gnu
+- riscv32i-unknown-none-elf
+- riscv32imac-unknown-none-elf
+- riscv64gc-unknown-linux-gnu
+- riscv64imac-unknown-none-elf
+- wasm32-unknown-unknown
+- wasm32-wasip1
+- wasm32-wasip2
+- x86_64-unknown-linux-gnu
 
 active toolchain
 ----------------
 
-nightly-x86_64-unknown-linux-gnu (default)
-rustc 1.95.0-nightly (842bd5be2 2026-01-29)
+- nightly-x86_64-unknown-linux-gnu (default)
+- rustc 1.95.0-nightly (842bd5be2 2026-01-29)
 
 
 ## ESP32C6 Devkitc
@@ -53,15 +53,15 @@ GPIO5 => Connect to TX on USB to UART Cable
   - I did not use wit bindgen to generate the .wit file because for printk, I did not like having to deal with what the bindgen created, and prefered to do something a bit more hacky (take in the string, and pass it to the rust side code.  Then in the rust side code pass the string pointer and length to the actual extern c implementations)
 
 - Run the following command to embed the "adc.wit" interface into the "adc.wasm" file to produce the new "adc_embed.wasm" file:
-<pre> ```wasm-tools component embed adc.wit wasm_component/adc.wasm -o wasm_component/adc_embed.wasm``` </pre>
+<pre>```wasm-tools component embed adc.wit wasm_component/adc.wasm -o wasm_component/adc_embed.wasm```</pre>
 
 - Run the following command to create a new component out of the "adc_embed.wasm" file with the component as the filw "adc.component.wasm":
-<pre> ```wasm-tools component new wasm_component/adc_embed.wasm -o wasm_component/adc.component.wasm``` </pre>
+<pre>```wasm-tools component new wasm_component/adc_embed.wasm -o wasm_component/adc.component.wasm```</pre>
 
 - Navigate to the "esp32/adc_pulley_embed/wasmtime-rr-prototyping/target/debug/" directory and run the "pulley_exp_wasmtime_with_std" executable to create the "adc.rr.cwasm" file.  This .cwasm file will be embedded as bytes in the rust side code and will be run with pulley32.
 
 - Navigate to the "esp32/adc_pulley_embed/wasmtime-rr-prototyping/adc_embed_nostd/" directory and then run the following command:
-<pre> ```RUSTFLAGS="-C link-arg=--initial-memory=65536 -C link-arg=--stack-first -C link-arg=-zstack-size=4096"   cargo build --release --target riscv32imac-unknown-none-elf``` </pre>
+<pre>```RUSTFLAGS="-C link-arg=--initial-memory=65536 -C link-arg=--stack-first -C link-arg=-zstack-size=4096"   cargo build --release --target riscv32imac-unknown-none-elf```</pre>
 
 Note all of this can be done automatically for you by running <pre> ```./script.sh``` </pre> in the "esp32/adc_pulley_embed" directory.
 
